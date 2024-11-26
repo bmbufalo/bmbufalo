@@ -20,7 +20,7 @@
 
 ## Volunteer
 
-- {Wyndham Residential Association](https://wyndhamra.com) (HOA), President
+- [Wyndham Residential Association](https://wyndhamra.com) (HOA), President
 
 ## Portfolio
 
