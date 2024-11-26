@@ -10,9 +10,13 @@ theme:
     
 plugins:
   - blog:
+      blog_dir: .
       blog_toc: true
       categories: true
-# nav:
-#   - About Me: about_me.md
+  - search
+  - tags
+nav:
+  - index.md
+  #   - About Me: about_me.md
 #   - Hire Me: hire_me.md
 #   - Blog: 
