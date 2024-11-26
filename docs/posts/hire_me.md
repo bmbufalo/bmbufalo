@@ -1,3 +1,7 @@
+---
+date: 2001-09-15
+---
+
 # Hire Me
 
 ## Education
