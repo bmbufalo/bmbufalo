@@ -8,15 +8,15 @@
 
 ## Career
 
-- IT System Administrator at [Kemper](https://www.kemper.com)
-- IT System Administrator at [C Spire](https://www.cspire.com)
-- IT System Administrator at [American Family Care](https://www.americanfamilycare.com)
-- Co-Owner of BrainCase Computers
-- Computer Technician at CompUSA
-- Petty Officer, Second Class in the [United States Navy](https://www.navy.mil)
-  - Gunners Mate
-  - Aviation Administrative Assitance
-  - Airman
+- IT System Administrator at [Kemper](https://www.kemper.com) from 2021 to 2024
+- IT System Administrator at [C Spire](https://www.cspire.com) from 2013 to 2021
+- IT System Administrator at [American Family Care](https://www.americanfamilycare.com) from 2008 to 2013
+- Co-Owner of BrainCase Computersfrom 2008 to 2010
+- Computer Technician at CompUSA from 2006 to 2008
+- Petty Officer, Second Class in the [United States Navy](https://www.navy.mil) from 2002 to 2006
+    - Gunners Mate
+    - Aviation Administrative Assitance
+    - Airman
 
 ## Volunteer
 

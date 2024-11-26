@@ -1,22 +1,77 @@
 site_name: Brian's Latest
 site_url: https://pages.gitlab.io/bmbufalo
 site_dir: public
+
 theme: 
   name: material
+  navigation:
+    next: false
+    previous: false
   features:
     - navigation.instant
     - navigation.path
+    - navigation.footer
     - toc.follow
-    
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: red
+      accent: pink
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
 plugins:
+  - rss:
+      enabled: !ENV [CI, false]
+      match_path: posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+
   - blog:
       blog_dir: .
       blog_toc: true
       categories: true
+
   - search
   - tags
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://fosstodon.org/@bmbufalo
+      name: bmbufalo on Fosstodon
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/bmbufalo
+      name: bmbufalo on GitLab
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/bmbufalo
+      name: bmbufalo on LinkedIn
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/bmbufalo/
+      name: bmbufalo on Instagram
+
 nav:
   - index.md
   - about_me.md
   - hire_me.md
-  
