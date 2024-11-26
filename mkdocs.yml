@@ -1,0 +1,18 @@
+site_name: Brian's Latest
+site_url: https://pages.gitlab.io/bmbufalo
+site_dir: public
+theme: 
+  name: material
+  features:
+    - navigation.instant
+    - navigation.path
+    - toc.follow
+    
+plugins:
+  - blog:
+      blog_toc: true
+      categories: true
+# nav:
+#   - About Me: about_me.md
+#   - Hire Me: hire_me.md
+#   - Blog: 
