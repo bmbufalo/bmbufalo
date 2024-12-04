@@ -1,12 +1,9 @@
 site_name: Brian's Latest
-site_url: https://pages.gitlab.io/bmbufalo
+site_url: https://blog.bufalo.me
 site_dir: public
 
 theme: 
   name: material
-  navigation:
-    next: false
-    previous: false
   features:
     - navigation.instant
     - navigation.path
@@ -39,22 +36,27 @@ theme:
         name: Switch to system preference
 
 plugins:
-  - rss:
-      enabled: !ENV [CI, false]
-      match_path: posts/.*
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
-
   - blog:
       blog_dir: .
       blog_toc: true
       categories: true
-
   - search
   - tags
+  - rss:
+      date_from_meta:
+        as_creation: "date.created"
+        as_update: "date.updated"
+        datetime_format: "%Y-%m-%d %H:%M:%S"
+        default_time: "20:00"
+        default_timezone: US/Chicago
+      enabled: true
+      length: 20
+      match_path: "posts/*"
+      url_parameters:
+        utm_source: "BriansLatest"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+      use_git: false
 
 extra:
   social:
