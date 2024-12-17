@@ -1,7 +1,7 @@
 ---
 date: 
-  created: 2024-12-03T20:00:00
-  updated: 2024-12-17T09:24:00
+  created: 2024-12-17T09:24:00
+  updated: 2024-12-17T09:42:00
 draft: false
 categories:
   - tech
