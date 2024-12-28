@@ -4,6 +4,8 @@ site_dir: public
 
 theme: 
   name: material
+  icon:
+    logo: fontawesome/solid/microchip
 
   features:
     - navigation.tabs
