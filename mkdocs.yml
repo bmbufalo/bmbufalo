@@ -44,9 +44,9 @@ theme:
 
 plugins:
   - blog:
-      blog_dir: news
+      blog_dir: .
       blog_toc: true
-      categories: false
+      categories: true
   - search
   - tags
   - rss:
