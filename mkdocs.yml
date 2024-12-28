@@ -4,10 +4,16 @@ site_dir: public
 
 theme: 
   name: material
+
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.indexes
     - navigation.path
     - navigation.footer
+    - navigation.top
     - toc.follow
 
   palette:
@@ -35,11 +41,12 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+
 plugins:
   - blog:
-      blog_dir: .
+      blog_dir: news
       blog_toc: true
-      categories: true
+      categories: false
   - search
   - tags
   - rss:
@@ -58,6 +65,10 @@ plugins:
         utm_campaign: "feed-syndication"
       use_git: false
 
+markdown_extensions:
+  - admonition
+
+
 extra:
   social:
     - icon: fontawesome/brands/mastodon
@@ -72,8 +83,3 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bmbufalo/
       name: bmbufalo on Instagram
-
-nav:
-  - index.md
-  - about_me.md
-  - hire_me.md
