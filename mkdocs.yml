@@ -55,7 +55,7 @@ plugins:
         as_update: "date.updated"
         datetime_format: "%Y-%m-%d %H:%M:%S"
         default_time: "20:00"
-        default_timezone: US/Chicago
+        default_timezone: America/Chicago
       enabled: true
       length: 20
       match_path: "posts/*"
