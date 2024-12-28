@@ -1,1 +1,8 @@
+---
+hide:
+  - navigation
+  - footer
+
+---
+
 # Blog

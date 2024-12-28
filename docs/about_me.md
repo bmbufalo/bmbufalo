@@ -1,6 +1,8 @@
 ---
-date: 1983-07-12
-pin: true
+hide:
+  - navigation
+  - footer
+
 ---
 
 # About Me

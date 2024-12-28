@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  - footer
+
+---
+
 # Hire Me
 
 ## Education
