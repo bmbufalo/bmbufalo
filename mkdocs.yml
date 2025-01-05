@@ -9,6 +9,8 @@ theme:
     - navigation.path
     - navigation.footer
     - toc.follow
+  icon:
+    logo: fontawesome/solid/b
 
   palette:
     # Palette toggle for automatic mode
@@ -73,7 +75,7 @@ extra:
       link: https://www.instagram.com/bmbufalo/
       name: bmbufalo on Instagram
 
-nav:
-  - index.md
-  - about_me.md
-  - hire_me.md
+# nav:
+#   - index.md
+#   - about_me.md
+#   - hire_me.md
