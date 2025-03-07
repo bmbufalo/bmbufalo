@@ -9,7 +9,7 @@ tags:
   - terinal
   - kb
 pin: false
-draft: true
+draft: false
 
 ---
 
