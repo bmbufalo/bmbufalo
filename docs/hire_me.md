@@ -9,12 +9,15 @@ hide:
 
 ## Education
 
-- [University of Montevallo](http://www.montevallo.edu/) – Bachelor of Arts in History
+- [University of Montevallo](http://www.montevallo.edu/) (2018) – Bachelor of Arts in History
   - [Senior Seminar](https://www.icloud.com/pages/0mzZWKyihB--8lXAazI65s15A#Senior_Seminar_-_Creek_War)
-  - [Jefferson State Community College](http://www.jeffersonstate.edu/)
+- [Jefferson State Community College](http://www.jeffersonstate.edu/) - Undergraduate
+- [Central Texas College (NCPACE program)](https://www.ctcd.edu/students/military-students-veterans-and-spouses/navy-students/ncpace-program-information/)
+- [North Idaho College](https://www.nic.edu) - Undergraduate
 
 ## Career
 
+- Automation Specialist at [Blue Cross and Blue Sheild of Alabama](https://www.bcbsal.org/) from 2004 to present
 - IT System Administrator at [Kemper](https://www.kemper.com) from 2021 to 2024
 - IT System Administrator at [C Spire](https://www.cspire.com) from 2013 to 2021
 - IT System Administrator at [American Family Care](https://www.americanfamilycare.com) from 2008 to 2013
