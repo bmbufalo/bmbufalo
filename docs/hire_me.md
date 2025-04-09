@@ -17,7 +17,7 @@ hide:
 
 ## Career
 
-- Automation Specialist at [Blue Cross and Blue Sheild of Alabama](https://www.bcbsal.org/) from 2004 to present
+- Automation Specialist at [Blue Cross and Blue Sheild of Alabama](https://www.bcbsal.org/) from 2024 to present
 - IT System Administrator at [Kemper](https://www.kemper.com) from 2021 to 2024
 - IT System Administrator at [C Spire](https://www.cspire.com) from 2013 to 2021
 - IT System Administrator at [American Family Care](https://www.americanfamilycare.com) from 2008 to 2013
