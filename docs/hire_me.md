@@ -18,6 +18,7 @@ hide:
 ## Career
 
 - System Engineer II at [Blue Cross and Blue Sheild of Alabama](https://www.bcbsal.org/) from 2024 to present
+- Usher, Birmingham [Barons](https://www.barons.com) from 2025 to present
 - IT System Administrator at [Kemper](https://www.kemper.com) from 2021 to 2024
 - IT System Administrator at [C Spire](https://www.cspire.com) from 2013 to 2021
 - IT System Administrator at [American Family Care](https://www.americanfamilycare.com) from 2008 to 2013
@@ -30,7 +31,7 @@ hide:
 
 ## Volunteer
 
-- [Wyndham Residential Association](https://wyndhamra.com) (HOA), President
+- [Wyndham Residential Association](https://wyndhamra.com) (HOA), President from 2018 to 2024
 
 ## Portfolio
 
