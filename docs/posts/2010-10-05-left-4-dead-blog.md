@@ -2,8 +2,6 @@
 title: "Left 4 Dead Blog"
 date: 2010-10-05
 updated: 2010-10-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/05/left-4-dead-blog/
 draft: false
 ---

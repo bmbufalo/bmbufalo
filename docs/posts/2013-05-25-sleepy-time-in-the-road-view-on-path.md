@@ -2,8 +2,6 @@
 title: "Sleepy time in the road. – View on Path."
 date: 2013-05-25
 updated: 2013-05-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/05/25/sleepy-time-in-the-road-view-on-path/
 draft: false
 ---

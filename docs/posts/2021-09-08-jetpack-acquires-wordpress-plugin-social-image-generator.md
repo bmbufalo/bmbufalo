@@ -2,8 +2,6 @@
 title: "Jetpack Acquires WordPress Plugin Social Image Generator"
 date: 2021-09-08
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/09/08/jetpack-acquires-wordpress-plugin-social-image-generator/
 draft: false
 ---

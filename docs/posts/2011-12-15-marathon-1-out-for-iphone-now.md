@@ -2,8 +2,6 @@
 title: "Marathon 1 -- out for iPhone now"
 date: 2011-12-15
 updated: 2011-12-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/15/marathon-1-out-for-iphone-now/
 draft: false
 ---

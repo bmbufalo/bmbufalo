@@ -2,8 +2,6 @@
 title: "Only In Alabama..."
 date: 2008-11-11
 updated: 2008-11-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/11/11/only-in-alabama/
 draft: false
 ---

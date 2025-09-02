@@ -2,8 +2,6 @@
 title: "Test Embed"
 date: 2012-08-07
 updated: 2012-08-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/08/07/test-embed/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "We yawn because we care - Boing Boing"
 date: 2010-09-15
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/09/15/we-yawn-because-we-care-boing-boing/
 draft: false
 ---

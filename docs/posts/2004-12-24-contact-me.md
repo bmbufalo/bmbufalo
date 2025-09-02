@@ -2,8 +2,6 @@
 title: "Contact Me"
 date: 2004-12-24
 updated: 2004-12-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2004/12/24/contact-me/
 draft: false
 ---

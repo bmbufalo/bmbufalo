@@ -2,8 +2,6 @@
 title: "This is an advance warning for Grand at Galleria"
 date: 2008-05-16
 updated: 2008-05-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/16/this-is-an-advance-warning-for-grand-at-galleria/
 draft: false
 ---

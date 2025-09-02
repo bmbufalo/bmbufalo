@@ -2,8 +2,6 @@
 title: "Can Lucy come inside and play?"
 date: 2012-05-05
 updated: 2012-05-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/05/can-lucy-come-inside-and-play/
 draft: false
 ---

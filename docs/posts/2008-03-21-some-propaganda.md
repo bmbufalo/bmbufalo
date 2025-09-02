@@ -2,8 +2,6 @@
 title: "Some propaganda"
 date: 2008-03-21
 updated: 2008-03-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/03/21/some-propaganda/
 draft: false
 ---

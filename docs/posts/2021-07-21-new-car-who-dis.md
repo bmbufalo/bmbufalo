@@ -2,8 +2,6 @@
 title: "New car, who dis?"
 date: 2021-07-21
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/07/21/new-car-who-dis/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Kennan likes watching @StephenAtHome"
 date: 2012-06-23
 updated: 2012-06-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/23/kennan-likes-watching-stephenathome-2/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "102 Dalmatians...not one set of genitalia...."
 date: 2011-03-05
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/05/102-dalmatians-not-one-set-of-genitalia/
 draft: false
 ---

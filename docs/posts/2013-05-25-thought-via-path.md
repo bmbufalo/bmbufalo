@@ -2,8 +2,6 @@
 title: "Thought via Path"
 date: 2013-05-25
 updated: 2013-05-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/05/25/thought-via-path-11/
 draft: false
 ---

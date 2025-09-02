@@ -2,8 +2,6 @@
 title: "Tech Crunch Rumors: Large Form iPod Touch To Launch in Fall ‘09"
 date: 2008-12-31
 updated: 2008-12-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/31/tech-crunch-rumors-large-form-ipod-touch-to-launch-in-fall-09/
 draft: false
 ---

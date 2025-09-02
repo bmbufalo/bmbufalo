@@ -2,8 +2,6 @@
 title: "Mastodon verification"
 date: 2022-11-09
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2022/11/09/mastodon-verification-2/
 draft: false
 ---

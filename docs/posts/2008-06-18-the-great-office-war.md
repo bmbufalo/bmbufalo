@@ -2,8 +2,6 @@
 title: "The Great Office War"
 date: 2008-06-18
 updated: 2008-06-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/18/the-great-office-war/
 draft: false
 ---

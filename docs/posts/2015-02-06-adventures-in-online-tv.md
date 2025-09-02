@@ -2,8 +2,6 @@
 title: "Adventures in Online TV"
 date: 2015-02-06
 updated: 2015-02-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/02/06/adventures-in-online-tv/
 draft: false
 ---

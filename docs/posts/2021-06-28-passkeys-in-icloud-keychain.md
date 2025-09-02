@@ -2,8 +2,6 @@
 title: "Passkeys in iCloud Keychain"
 date: 2021-06-28
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/06/28/passkeys-in-icloud-keychain/
 draft: false
 ---

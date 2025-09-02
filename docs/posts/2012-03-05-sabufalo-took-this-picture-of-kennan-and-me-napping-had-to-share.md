@@ -2,8 +2,6 @@
 title: "@sabufalo took this picture of Kennan and me napping. Had to share!"
 date: 2012-03-05
 updated: 2012-03-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/05/sabufalo-took-this-picture-of-kennan-and-me-napping-had-to-share-2/
 draft: false
 ---

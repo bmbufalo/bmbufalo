@@ -2,8 +2,6 @@
 title: "Friendly Fires &#039;Skeleton Boy&#039;"
 date: 2009-09-30
 updated: 2009-09-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/30/friendly-fires-skeleton-boy/
 draft: false
 ---

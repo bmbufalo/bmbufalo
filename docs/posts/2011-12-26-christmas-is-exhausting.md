@@ -2,8 +2,6 @@
 title: "Christmas is exhausting."
 date: 2011-12-26
 updated: 2011-12-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/26/christmas-is-exhausting/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Blogger Tip Before Bed"
 date: 2008-07-02
 updated: 2008-07-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/02/blogger-tip-before-bed/
 draft: false
 ---

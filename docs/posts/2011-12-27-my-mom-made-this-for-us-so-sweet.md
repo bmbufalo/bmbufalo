@@ -2,8 +2,6 @@
 title: "My mom made this for us. So sweet."
 date: 2011-12-27
 updated: 2011-12-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/27/my-mom-made-this-for-us-so-sweet/
 draft: false
 ---

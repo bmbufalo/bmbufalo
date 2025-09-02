@@ -2,8 +2,6 @@
 title: "@DOGingham • GREEN SPRINGS DOG PARK OPENING!"
 date: 2009-10-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/14/dogingham-green-springs-dog-park-opening/
 draft: false
 ---

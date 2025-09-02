@@ -2,8 +2,6 @@
 title: "Lucy being silly"
 date: 2012-02-12
 updated: 2012-02-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/12/lucy-being-silly/
 draft: false
 ---

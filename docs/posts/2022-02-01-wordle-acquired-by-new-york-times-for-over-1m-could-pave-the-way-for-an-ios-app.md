@@ -2,8 +2,6 @@
 title: "‘Wordle’ acquired by New York Times for over $1M, could pave the way for an iOS app"
 date: 2022-02-01
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2022/02/01/wordle-acquired-by-new-york-times-for-over-1m-could-pave-the-way-for-an-ios-app/
 draft: false
 ---

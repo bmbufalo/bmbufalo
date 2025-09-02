@@ -2,8 +2,6 @@
 title: "At Carmike Cinemas 10"
 date: 2013-02-17
 updated: 2013-02-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/02/17/at-carmike-cinemas-10/
 draft: false
 ---

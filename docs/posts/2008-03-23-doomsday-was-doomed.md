@@ -2,8 +2,6 @@
 title: "Doomsday was doomed"
 date: 2008-03-23
 updated: 2008-03-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/03/23/doomsday-was-doomed/
 draft: false
 ---

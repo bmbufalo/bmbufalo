@@ -2,8 +2,6 @@
 title: "Iron Man Thursday"
 date: 2008-04-30
 updated: 2008-04-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/30/iron-man-thursday/
 draft: false
 ---

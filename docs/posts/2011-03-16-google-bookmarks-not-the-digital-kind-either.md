@@ -2,8 +2,6 @@
 title: "Google bookmarks! Not the digital kind either..."
 date: 2011-03-16
 updated: 2011-03-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/16/google-bookmarks-not-the-digital-kind-either/
 draft: false
 ---

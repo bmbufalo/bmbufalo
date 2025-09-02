@@ -2,8 +2,6 @@
 title: "Made one doggie happy today!"
 date: 2010-11-01
 updated: 2010-11-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/01/made-one-doggie-happy-today-2/
 draft: false
 ---

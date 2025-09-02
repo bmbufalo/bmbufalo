@@ -2,8 +2,6 @@
 title: "Sleepy dog is not to be disturbed!"
 date: 2011-06-12
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/12/sleepy-dog-is-not-to-be-disturbed-2/
 draft: false
 ---

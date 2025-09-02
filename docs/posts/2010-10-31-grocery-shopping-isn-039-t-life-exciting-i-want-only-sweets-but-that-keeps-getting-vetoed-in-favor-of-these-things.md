@@ -2,8 +2,6 @@
 title: "Grocery shopping. Isn&#039;t life exciting! I want only sweets but that keeps getting vetoed in favor of these things:"
 date: 2010-10-31
 updated: 2010-10-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/31/grocery-shopping-isnt-life-exciting-i-want-only-sweets-but-that-keeps-getting-vetoed-in-favor-of-these-things/
 draft: false
 ---

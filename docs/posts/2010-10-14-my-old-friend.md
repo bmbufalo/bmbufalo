@@ -2,8 +2,6 @@
 title: "My old friend!"
 date: 2010-10-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/14/my-old-friend-2/
 draft: false
 ---

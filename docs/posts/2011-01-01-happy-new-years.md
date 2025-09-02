@@ -2,8 +2,6 @@
 title: "Happy New Years!"
 date: 2011-01-01
 updated: 2011-01-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/01/happy-new-years/
 draft: false
 ---

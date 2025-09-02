@@ -2,8 +2,6 @@
 title: "Celebrating"
 date: 2011-05-02
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/05/02/celebrating/
 draft: false
 ---

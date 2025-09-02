@@ -2,8 +2,6 @@
 title: "Kennan Anthony Bufalo 7/13 11:13pm 7lbs 15oz 20.5in and everyone is perfectly healthy!"
 date: 2011-07-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/14/kennan-anthony-bufalo-713-1113pm-7lbs-15oz-20-5in-and-everyone-is-perfectly-healthy-2/
 draft: false
 ---

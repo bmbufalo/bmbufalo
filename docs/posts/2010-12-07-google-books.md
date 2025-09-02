@@ -2,8 +2,6 @@
 title: "Google Books"
 date: 2010-12-07
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/07/google-books/
 draft: false
 ---

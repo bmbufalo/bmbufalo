@@ -2,8 +2,6 @@
 title: "Computer just went crazy but she&#039;s back now. Weird."
 date: 2010-10-14
 updated: 2010-10-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/14/computer-just-went-crazy-but-shes-back-now-weird/
 draft: false
 ---

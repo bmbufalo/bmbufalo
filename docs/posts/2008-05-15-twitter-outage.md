@@ -2,8 +2,6 @@
 title: "Twitter Outage"
 date: 2008-05-15
 updated: 2008-05-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/15/twitter-outage/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Visualizing up to ten dimensions - Boing Boing"
 date: 2009-08-18
 updated: 2009-08-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/18/visualizing-up-to-ten-dimensions-boing-boing/
 draft: false
 ---

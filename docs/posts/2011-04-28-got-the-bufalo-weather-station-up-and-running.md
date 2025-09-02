@@ -2,8 +2,6 @@
 title: "Got the Bufalo weather station up and running!"
 date: 2011-04-28
 updated: 2011-04-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/28/got-the-bufalo-weather-station-up-and-running/
 draft: false
 ---

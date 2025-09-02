@@ -2,8 +2,6 @@
 title: "Izzy tries to follow Kennan everywhere!"
 date: 2014-11-09
 updated: 2014-11-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/11/09/izzy-tries-to-follow-kennan-everywhere/
 draft: false
 ---

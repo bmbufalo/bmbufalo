@@ -2,8 +2,6 @@
 title: "The poormans rolling pin."
 date: 2010-10-21
 updated: 2010-10-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/21/the-poormans-rolling-pin/
 draft: false
 ---

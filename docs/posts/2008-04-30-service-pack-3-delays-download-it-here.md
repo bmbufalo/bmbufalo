@@ -2,8 +2,6 @@
 title: "Service Pack 3 Delays, Download It Here!"
 date: 2008-04-30
 updated: 2008-04-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/30/service-pack-3-delays-download-it-here/
 draft: false
 ---

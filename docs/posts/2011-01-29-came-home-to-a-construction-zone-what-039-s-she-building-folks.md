@@ -2,8 +2,6 @@
 title: "Came home to a construction zone! What&#039;s she building folks?"
 date: 2011-01-29
 updated: 2011-01-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/29/came-home-to-a-construction-zone-whats-she-building-folks/
 draft: false
 ---

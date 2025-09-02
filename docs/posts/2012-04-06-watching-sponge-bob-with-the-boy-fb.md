@@ -2,8 +2,6 @@
 title: "Watching Sponge Bob with the boy! #fb"
 date: 2012-04-06
 updated: 2012-04-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/04/06/watching-sponge-bob-with-the-boy-fb/
 draft: false
 ---

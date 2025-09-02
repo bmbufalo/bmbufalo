@@ -2,8 +2,6 @@
 title: "Some Major Changes in the Mix"
 date: 2009-08-05
 updated: 2009-08-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/05/some-major-changes-in-the-mix-2/
 draft: false
 ---

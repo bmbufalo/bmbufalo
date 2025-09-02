@@ -2,8 +2,6 @@
 title: "Still feeling sick but being a trooper."
 date: 2011-12-28
 updated: 2011-12-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/28/still-feeling-sick-but-being-a-trooper/
 draft: false
 ---

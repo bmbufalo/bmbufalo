@@ -2,8 +2,6 @@
 title: "Dan Harmon Poops: The End of The End of the World"
 date: 2012-12-21
 updated: 2012-12-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/12/21/dan-harmon-poops-the-end-of-the-end-of-the-world/
 draft: false
 ---

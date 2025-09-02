@@ -2,8 +2,6 @@
 title: "Kennan with a cloth diaper."
 date: 2012-02-13
 updated: 2012-02-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/13/kennan-with-a-cloth-diaper/
 draft: false
 ---

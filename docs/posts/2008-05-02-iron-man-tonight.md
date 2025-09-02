@@ -2,8 +2,6 @@
 title: "Iron Man Tonight"
 date: 2008-05-02
 updated: 2008-05-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/02/iron-man-tonight/
 draft: false
 ---

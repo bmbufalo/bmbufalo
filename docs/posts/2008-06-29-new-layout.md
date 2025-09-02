@@ -2,8 +2,6 @@
 title: "New Layout"
 date: 2008-06-29
 updated: 2008-06-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/29/new-layout/
 draft: false
 ---

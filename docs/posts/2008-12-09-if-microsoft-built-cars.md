@@ -2,8 +2,6 @@
 title: "If Microsoft Built Cars..."
 date: 2008-12-09
 updated: 2008-12-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/09/if-microsoft-built-cars/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Antarctica, 1961: A Soviet Surgeon Has to Remove His Own Appendix - Alexis Madrigal - Technology - The Atlantic"
 date: 2011-03-18
 updated: 2011-03-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/18/antarctica-1961-a-soviet-surgeon-has-to-remove-his-own-appendix-alexis-madrigal-technology-the-atlantic/
 draft: false
 ---

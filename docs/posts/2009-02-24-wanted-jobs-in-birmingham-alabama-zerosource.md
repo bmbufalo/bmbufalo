@@ -2,8 +2,6 @@
 title: "Wanted! Jobs in Birmingham Alabama! - ZeroSource"
 date: 2009-02-24
 updated: 2009-02-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/02/24/wanted-jobs-in-birmingham-alabama-zerosource/
 draft: false
 ---

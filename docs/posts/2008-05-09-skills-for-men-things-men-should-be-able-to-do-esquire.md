@@ -2,8 +2,6 @@
 title: "Skills for Men - Things Men Should Be Able to Do - Esquire"
 date: 2008-05-09
 updated: 2008-05-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/09/skills-for-men-things-men-should-be-able-to-do-esquire/
 draft: false
 ---

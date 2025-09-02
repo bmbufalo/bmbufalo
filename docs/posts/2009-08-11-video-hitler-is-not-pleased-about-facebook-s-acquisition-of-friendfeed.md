@@ -2,8 +2,6 @@
 title: "Video: Hitler Is Not Pleased About Facebook’s Acquisition Of FriendFeed"
 date: 2009-08-11
 updated: 2009-08-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/11/video-hitler-is-not-pleased-about-facebooks-acquisition-of-friendfeed/
 draft: false
 ---

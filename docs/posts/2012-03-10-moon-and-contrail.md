@@ -2,8 +2,6 @@
 title: "Moon and contrail"
 date: 2012-03-10
 updated: 2012-03-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/10/moon-and-contrail/
 draft: false
 ---

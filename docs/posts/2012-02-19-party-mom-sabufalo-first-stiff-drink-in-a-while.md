@@ -2,8 +2,6 @@
 title: "Party mom! @sabufalo First stiff drink in a while."
 date: 2012-02-19
 updated: 2012-02-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/19/party-mom-sabufalo-first-stiff-drink-in-a-while/
 draft: false
 ---

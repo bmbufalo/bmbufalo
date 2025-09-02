@@ -2,8 +2,6 @@
 title: "Advertisement Fail"
 date: 2009-08-21
 updated: 2009-08-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/21/advertisement-fail/
 draft: false
 ---

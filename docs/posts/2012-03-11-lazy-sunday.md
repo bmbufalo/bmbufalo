@@ -2,8 +2,6 @@
 title: "Lazy Sunday"
 date: 2012-03-11
 updated: 2012-03-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/11/lazy-sunday-2/
 draft: false
 ---

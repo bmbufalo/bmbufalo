@@ -2,8 +2,6 @@
 title: "At McAlister’s Deli"
 date: 2013-03-07
 updated: 2013-03-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/03/07/at-mcalisters-deli/
 draft: false
 ---

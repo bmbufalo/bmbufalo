@@ -2,8 +2,6 @@
 title: "July 12th Birthday/Movie Night Special Announcement"
 date: 2008-07-04
 updated: 2008-07-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/04/july-12th-birthdaymovie-night-special-announcement/
 draft: false
 ---

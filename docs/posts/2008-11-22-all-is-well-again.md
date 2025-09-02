@@ -2,8 +2,6 @@
 title: "All is well again"
 date: 2008-11-22
 updated: 2008-11-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/11/22/all-is-well-again/
 draft: false
 ---

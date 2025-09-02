@@ -2,8 +2,6 @@
 title: "Hide and seek"
 date: 2015-01-31
 updated: 2015-01-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/01/31/hide-and-seek/
 draft: false
 ---

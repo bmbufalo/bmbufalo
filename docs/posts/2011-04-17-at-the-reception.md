@@ -2,8 +2,6 @@
 title: "At the reception"
 date: 2011-04-17
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/17/at-the-reception/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "WWDC 2015 - Announcement Speculation Extraordinaire Apple posted..."
 date: 2015-04-16
 updated: 2015-04-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/04/16/wwdc-2015-announcement-speculation-extraordinaire-apple-posted/
 draft: false
 ---

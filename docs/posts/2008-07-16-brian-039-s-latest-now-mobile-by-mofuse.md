@@ -2,8 +2,6 @@
 title: "Brian&#039;s Latest - Now Mobile by Mofuse"
 date: 2008-07-16
 updated: 2008-07-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/16/brians-latest-now-mobile-by-mofuse/
 draft: false
 ---

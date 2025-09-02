@@ -2,8 +2,6 @@
 title: "Listening to Gee Willikers by Spose"
 date: 2012-10-27
 updated: 2012-10-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/10/27/listening-to-gee-willikers-by-spose/
 draft: false
 ---

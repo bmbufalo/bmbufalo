@@ -2,8 +2,6 @@
 title: "Google Voice Adds Email Forwarding and Replies to SMS - Google Voice - Lifehacker"
 date: 2009-09-09
 updated: 2009-09-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/09/google-voice-adds-email-forwarding-and-replies-to-sms-google-voice-lifehacker/
 draft: false
 ---

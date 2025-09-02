@@ -2,8 +2,6 @@
 title: "Buzz Aldrin: Why We Need Better Rockets"
 date: 2009-11-11
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/11/11/buzz-aldrin-why-we-need-better-rockets/
 draft: false
 ---

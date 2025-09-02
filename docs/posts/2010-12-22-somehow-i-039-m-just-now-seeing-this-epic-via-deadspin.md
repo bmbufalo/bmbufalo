@@ -2,8 +2,6 @@
 title: "Somehow I&#039;m just now seeing this, epic! via @deadspin"
 date: 2010-12-22
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/22/somehow-im-just-now-seeing-this-epic-via-deadspin/
 draft: false
 ---

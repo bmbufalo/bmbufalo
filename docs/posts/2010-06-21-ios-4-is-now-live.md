@@ -2,8 +2,6 @@
 title: "iOS 4 is now live"
 date: 2010-06-21
 updated: 2010-06-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/21/ios-4-is-now-live/
 draft: false
 ---

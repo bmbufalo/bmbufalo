@@ -2,8 +2,6 @@
 title: "Hands on: Netflix for iPhone works well, needs higher-res icons"
 date: 2010-08-26
 updated: 2010-08-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/26/hands-on-netflix-for-iphone-works-well-needs-higher-res-icons-2/
 draft: false
 ---

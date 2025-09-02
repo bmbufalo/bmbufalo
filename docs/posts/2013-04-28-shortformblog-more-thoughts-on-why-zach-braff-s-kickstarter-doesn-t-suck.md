@@ -2,8 +2,6 @@
 title: "ShortFormBlog: More thoughts on why Zach Braff's Kickstarter doesn't suck"
 date: 2013-04-28
 updated: 2013-04-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/04/28/shortformblog-more-thoughts-on-why-zach-braffs/
 draft: false
 ---

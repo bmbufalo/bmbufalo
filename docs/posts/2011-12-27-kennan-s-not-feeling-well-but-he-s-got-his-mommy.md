@@ -2,8 +2,6 @@
 title: "Kennan's not feeling well. But he's got his mommy!"
 date: 2011-12-27
 updated: 2011-12-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/27/kennans-not-feeling-well-but-hes-got-his-mommy/
 draft: false
 ---

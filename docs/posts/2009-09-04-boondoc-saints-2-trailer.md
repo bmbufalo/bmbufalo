@@ -2,8 +2,6 @@
 title: "Boondoc Saints 2 trailer"
 date: 2009-09-04
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/04/boondoc-saints-2-trailer/
 draft: false
 ---

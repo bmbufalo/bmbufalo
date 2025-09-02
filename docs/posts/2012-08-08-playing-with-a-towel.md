@@ -2,8 +2,6 @@
 title: "Playing with a towel"
 date: 2012-08-08
 updated: 2012-08-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/08/08/playing-with-a-towel/
 draft: false
 ---

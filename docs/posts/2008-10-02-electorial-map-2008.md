@@ -2,8 +2,6 @@
 title: "Electorial Map 2008"
 date: 2008-10-02
 updated: 2008-10-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/10/02/electorial-map-2008/
 draft: false
 ---

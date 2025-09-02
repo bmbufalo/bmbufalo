@@ -2,8 +2,6 @@
 title: "Snack time!"
 date: 2012-03-31
 updated: 2012-03-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/31/snack-time/
 draft: false
 ---

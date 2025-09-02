@@ -2,8 +2,6 @@
 title: "Bringing our toast to the dark side! @teklinks"
 date: 2015-01-29
 updated: 2015-01-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/01/29/bringing-our-toast-to-the-dark-side-teklinks/
 draft: false
 ---

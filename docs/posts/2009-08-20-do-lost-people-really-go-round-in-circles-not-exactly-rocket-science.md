@@ -2,8 +2,6 @@
 title: "Do lost people really go round in circles? : Not Exactly Rocket Science"
 date: 2009-08-20
 updated: 2009-08-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/20/do-lost-people-really-go-round-in-circles-not-exactly-rocket-science/
 draft: false
 ---

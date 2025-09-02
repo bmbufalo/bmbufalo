@@ -2,8 +2,6 @@
 title: "More Kennan Pictures"
 date: 2011-07-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/14/more-kennan-pictures-2/
 draft: false
 ---

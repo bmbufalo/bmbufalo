@@ -2,8 +2,6 @@
 title: "Dear Math  via Bits and Pieces"
 date: 2011-01-29
 updated: 2011-01-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/29/dear-math-via-bits-and-pieces/
 draft: false
 ---

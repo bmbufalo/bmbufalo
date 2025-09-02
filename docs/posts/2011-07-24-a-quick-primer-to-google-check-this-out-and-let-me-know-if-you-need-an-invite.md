@@ -2,8 +2,6 @@
 title: "A quick primer to Google+, check this out and let me know if you need an invite!"
 date: 2011-07-24
 updated: 2011-07-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/24/a-quick-primer-to-google-check-this-out-and-let-me-know-if-you-need-an-invite/
 draft: false
 ---

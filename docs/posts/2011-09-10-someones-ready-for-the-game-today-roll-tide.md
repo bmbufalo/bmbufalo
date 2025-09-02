@@ -2,8 +2,6 @@
 title: "Someones ready for the game today! Roll tide!!!"
 date: 2011-09-10
 updated: 2011-09-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/09/10/someones-ready-for-the-game-today-roll-tide/
 draft: false
 ---

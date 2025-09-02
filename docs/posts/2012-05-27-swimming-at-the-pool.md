@@ -2,8 +2,6 @@
 title: "Swimming at the pool."
 date: 2012-05-27
 updated: 2012-05-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/27/swimming-at-the-pool/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Hoover police officer involved in four-vehicle crash &#124; Shelby County Reporter"
 date: 2011-04-23
 updated: 2011-04-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/23/hoover-police-officer-involved-in-four-vehicle-crash-shelby-county-reporter/
 draft: false
 ---

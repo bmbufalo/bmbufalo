@@ -2,8 +2,6 @@
 title: "Happy Thanksgiving!"
 date: 2022-11-24
 updated: 2022-11-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2022/11/24/happy-thanksgiving/
 draft: false
 ---

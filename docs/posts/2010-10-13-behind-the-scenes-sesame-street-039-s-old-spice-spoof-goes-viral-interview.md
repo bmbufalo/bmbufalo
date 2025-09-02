@@ -2,8 +2,6 @@
 title: "Behind the Scenes: Sesame Street&#039;s Old Spice Spoof Goes Viral [INTERVIEW]"
 date: 2010-10-13
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/13/behind-the-scenes-sesame-streets-old-spice-spoof-goes-viral-interview-2/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "At Jefferson County Courthouse: Bessemer Division"
 date: 2013-03-28
 updated: 2013-03-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/03/28/at-jefferson-county-courthouse-bessemer-division/
 draft: false
 ---

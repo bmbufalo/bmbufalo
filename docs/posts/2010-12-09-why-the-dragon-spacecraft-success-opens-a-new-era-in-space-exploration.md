@@ -2,8 +2,6 @@
 title: "Why the Dragon Spacecraft Success Opens a New Era In Space Exploration"
 date: 2010-12-09
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/09/why-the-dragon-spacecraft-success-opens-a-new-era-in-space-exploration/
 draft: false
 ---

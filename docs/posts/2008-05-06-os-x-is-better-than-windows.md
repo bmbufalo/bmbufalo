@@ -2,8 +2,6 @@
 title: "OS X is better than Windows"
 date: 2008-05-06
 updated: 2008-05-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/06/os-x-is-better-than-windows/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Alert dog is alert!"
 date: 2010-10-12
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/12/alert-dog-is-alert/
 draft: false
 ---

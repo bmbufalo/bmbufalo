@@ -2,8 +2,6 @@
 title: "Happy to be home with his Legos!"
 date: 2014-07-20
 updated: 2014-07-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/07/20/happy-to-be-home-with-his-legos/
 draft: false
 ---

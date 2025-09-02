@@ -2,8 +2,6 @@
 title: "15 U.S. states with the fastest broadband Internet speeds &#124; Technology &#124; Los Angeles Times"
 date: 2009-08-25
 updated: 2009-08-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/25/15-u-s-states-with-the-fastest-broadband-internet-speeds-technology-los-angeles-times/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "I don't think that's how you are supposed to brush your teeth..."
 date: 2012-05-09
 updated: 2012-05-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/09/i-dont-think-thats-how-you-are-supposed-to-brush-your-teeth/
 draft: false
 ---

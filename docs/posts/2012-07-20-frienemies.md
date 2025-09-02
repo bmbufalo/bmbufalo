@@ -2,8 +2,6 @@
 title: "Frienemies"
 date: 2012-07-20
 updated: 2012-07-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/07/20/frienemies-2/
 draft: false
 ---

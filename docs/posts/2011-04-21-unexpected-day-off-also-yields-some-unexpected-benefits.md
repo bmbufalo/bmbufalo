@@ -2,8 +2,6 @@
 title: "Unexpected day off also yields some unexpected benefits!"
 date: 2011-04-21
 updated: 2011-04-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/21/unexpected-day-off-also-yields-some-unexpected-benefits-2/
 draft: false
 ---

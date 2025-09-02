@@ -2,8 +2,6 @@
 title: "Check out www.170millionamericans.org"
 date: 2011-02-28
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/02/28/check-out-www-170millionamericans-org/
 draft: false
 ---

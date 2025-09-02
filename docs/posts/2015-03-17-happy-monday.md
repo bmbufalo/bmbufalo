@@ -2,8 +2,6 @@
 title: "Happy Monday!"
 date: 2015-03-17
 updated: 2015-03-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/03/17/happy-monday/
 draft: false
 ---

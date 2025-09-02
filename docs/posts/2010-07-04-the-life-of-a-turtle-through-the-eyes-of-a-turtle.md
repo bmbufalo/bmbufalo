@@ -2,8 +2,6 @@
 title: "The Life of a Turtle, Through the Eyes of a Turtle"
 date: 2010-07-04
 updated: 2010-07-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/04/the-life-of-a-turtle-through-the-eyes-of-a-turtle/
 draft: false
 ---

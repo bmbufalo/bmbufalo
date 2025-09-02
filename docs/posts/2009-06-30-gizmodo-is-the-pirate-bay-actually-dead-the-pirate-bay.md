@@ -2,8 +2,6 @@
 title: "Gizmodo - Is the Pirate Bay Actually Dead? - The Pirate Bay"
 date: 2009-06-30
 updated: 2009-06-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/06/30/gizmodo-is-the-pirate-bay-actually-dead-the-pirate-bay/
 draft: false
 ---

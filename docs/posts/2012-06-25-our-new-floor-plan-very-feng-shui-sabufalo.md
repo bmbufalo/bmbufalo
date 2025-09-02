@@ -2,8 +2,6 @@
 title: "Our new floor plan.  Very feng shui. @sabufalo"
 date: 2012-06-25
 updated: 2012-06-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/25/our-new-floor-plan-very-feng-shui-sabufalo-2/
 draft: false
 ---

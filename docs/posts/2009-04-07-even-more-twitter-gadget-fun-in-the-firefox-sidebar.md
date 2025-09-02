@@ -2,8 +2,6 @@
 title: "Even more Twitter Gadget fun in the Firefox sidebar"
 date: 2009-04-07
 updated: 2009-04-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/07/even-more-twitter-gadget-fun-in-the-firefox-sidebar/
 draft: false
 ---

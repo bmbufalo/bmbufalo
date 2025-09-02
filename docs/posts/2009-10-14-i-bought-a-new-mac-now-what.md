@@ -2,8 +2,6 @@
 title: "I bought a new Mac, now what?"
 date: 2009-10-14
 updated: 2009-10-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/14/i-bought-a-new-mac-now-what/
 draft: false
 ---

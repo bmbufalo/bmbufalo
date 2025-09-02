@@ -2,8 +2,6 @@
 title: "The kids. @sabufalo"
 date: 2012-03-15
 updated: 2012-03-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/15/the-kids-sabufalo/
 draft: false
 ---

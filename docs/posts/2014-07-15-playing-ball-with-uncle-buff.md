@@ -2,8 +2,6 @@
 title: "Playing ball with Uncle Buff"
 date: 2014-07-15
 updated: 2014-07-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/07/15/playing-ball-with-uncle-buff/
 draft: false
 ---

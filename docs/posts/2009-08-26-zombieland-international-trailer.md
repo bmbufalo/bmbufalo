@@ -2,8 +2,6 @@
 title: "Zombieland International Trailer"
 date: 2009-08-26
 updated: 2009-08-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/26/zombieland-international-trailer/
 draft: false
 ---

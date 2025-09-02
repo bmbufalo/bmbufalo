@@ -2,8 +2,6 @@
 title: "Apple&#039;s Security Paradox - Forbes.com"
 date: 2008-12-08
 updated: 2008-12-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/08/apples-security-paradox-forbes-com/
 draft: false
 ---

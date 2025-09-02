@@ -2,8 +2,6 @@
 title: "Alabama Supreme Court rules against Love Stuff - Hoover Blog"
 date: 2009-09-11
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/11/alabama-supreme-court-rules-against-love-stuff-hoover-blog/
 draft: false
 ---

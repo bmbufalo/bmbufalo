@@ -2,8 +2,6 @@
 title: "Get Chills With Left 4 Dead&#039;s &#039;The Sacrifice&#039; Cinematic Trailer"
 date: 2010-10-01
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/01/get-chills-with-left-4-deads-the-sacrifice-cinematic-trailer/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "ASU Student Dunks Ball, Self"
 date: 2011-01-29
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/29/asu-student-dunks-ball-self/
 draft: false
 ---

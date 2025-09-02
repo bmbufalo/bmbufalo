@@ -2,8 +2,6 @@
 title: "Fantastic Photos of our Solar System"
 date: 2009-09-21
 updated: 2009-09-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/21/fantastic-photos-of-our-solar-system/
 draft: false
 ---

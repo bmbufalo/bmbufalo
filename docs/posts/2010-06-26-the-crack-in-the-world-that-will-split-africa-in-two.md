@@ -2,8 +2,6 @@
 title: "The crack in the world that will split Africa in two"
 date: 2010-06-26
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/26/the-crack-in-the-world-that-will-split-africa-in-two/
 draft: false
 ---

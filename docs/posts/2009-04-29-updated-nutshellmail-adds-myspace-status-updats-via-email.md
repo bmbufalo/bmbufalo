@@ -2,8 +2,6 @@
 title: "[Updated] NutshellMail Adds MySpace Status Updats via Email"
 date: 2009-04-29
 updated: 2009-04-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/29/updated-nutshellmail-adds-myspace-status-updats-via-email/
 draft: false
 ---

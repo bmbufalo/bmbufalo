@@ -2,8 +2,6 @@
 title: "No Movie Night this Saturday"
 date: 2008-06-12
 updated: 2008-06-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/12/no-movie-night-this-saturday/
 draft: false
 ---

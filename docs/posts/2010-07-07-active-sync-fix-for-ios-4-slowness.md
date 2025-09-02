@@ -2,8 +2,6 @@
 title: "Active Sync fix for iOS 4 slowness"
 date: 2010-07-07
 updated: 2010-07-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/07/active-sync-fix-for-ios-4-slowness/
 draft: false
 ---

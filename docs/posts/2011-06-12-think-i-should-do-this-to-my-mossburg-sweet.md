@@ -2,8 +2,6 @@
 title: "Think I should do this to my Mossburg! Sweet!"
 date: 2011-06-12
 updated: 2011-06-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/12/think-i-should-do-this-to-my-mossburg-sweet/
 draft: false
 ---

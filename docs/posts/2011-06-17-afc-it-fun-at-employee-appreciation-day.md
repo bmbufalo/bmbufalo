@@ -2,8 +2,6 @@
 title: "AFC IT fun at employee appreciation day"
 date: 2011-06-17
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/17/afc-it-fun-at-employee-appreciation-day-2/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Firefox 3 tomorrow!"
 date: 2008-06-17
 updated: 2008-06-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/17/firefox-3-tomorrow/
 draft: false
 ---

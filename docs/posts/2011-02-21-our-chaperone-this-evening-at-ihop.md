@@ -2,8 +2,6 @@
 title: "Our chaperone this evening at IHOP."
 date: 2011-02-21
 updated: 2011-02-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/02/21/our-chaperone-this-evening-at-ihop/
 draft: false
 ---

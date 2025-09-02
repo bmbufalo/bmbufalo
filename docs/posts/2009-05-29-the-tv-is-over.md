@@ -2,8 +2,6 @@
 title: "The TV is over."
 date: 2009-05-29
 updated: 2009-05-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/05/29/the-tv-is-over/
 draft: false
 ---

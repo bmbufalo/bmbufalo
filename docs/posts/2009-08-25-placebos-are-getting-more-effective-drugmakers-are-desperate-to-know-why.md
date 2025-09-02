@@ -2,8 +2,6 @@
 title: "Placebos Are Getting More Effective. Drugmakers Are Desperate to Know Why."
 date: 2009-08-25
 updated: 2009-08-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/25/placebos-are-getting-more-effective-drugmakers-are-desperate-to-know-why/
 draft: false
 ---

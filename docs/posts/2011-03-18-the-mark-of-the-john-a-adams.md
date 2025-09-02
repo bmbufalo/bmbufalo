@@ -2,8 +2,6 @@
 title: "The mark of the @John_A_Adams"
 date: 2011-03-18
 updated: 2011-03-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/18/the-mark-of-the-john_a_adams/
 draft: false
 ---

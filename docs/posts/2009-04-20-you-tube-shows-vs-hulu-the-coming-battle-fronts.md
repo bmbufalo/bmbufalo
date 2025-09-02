@@ -2,8 +2,6 @@
 title: "You Tube Shows vs. Hulu, the coming battle fronts"
 date: 2009-04-20
 updated: 2009-04-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/20/you-tube-shows-vs-hulu-the-coming-battle-fronts/
 draft: false
 ---

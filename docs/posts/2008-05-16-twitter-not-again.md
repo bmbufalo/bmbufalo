@@ -2,8 +2,6 @@
 title: "Twitter...not again"
 date: 2008-05-16
 updated: 2008-05-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/16/twitter-not-again/
 draft: false
 ---

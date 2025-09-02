@@ -2,8 +2,6 @@
 title: "Sharing Large Files with iDisk"
 date: 2009-02-20
 updated: 2009-02-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/02/20/sharing-large-files-with-idisk/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Are you ready for some football? &#124; PassiveAggressiveNotes.com"
 date: 2010-06-28
 updated: 2010-06-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/28/are-you-ready-for-some-football-passiveaggressivenotes-com/
 draft: false
 ---

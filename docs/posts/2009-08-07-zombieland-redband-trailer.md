@@ -2,8 +2,6 @@
 title: "Zombieland Redband Trailer"
 date: 2009-08-07
 updated: 2009-08-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/07/zombieland-redband-trailer/
 draft: false
 ---

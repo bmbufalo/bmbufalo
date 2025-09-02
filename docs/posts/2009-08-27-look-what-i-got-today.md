@@ -2,8 +2,6 @@
 title: "Look What I Got Today"
 date: 2009-08-27
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/27/look-what-i-got-today/
 draft: false
 ---

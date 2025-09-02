@@ -2,8 +2,6 @@
 title: "The scariest video you have ever watched in the name of science"
 date: 2010-09-16
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/09/16/the-scariest-video-you-have-ever-watched-in-the-name-of-science/
 draft: false
 ---

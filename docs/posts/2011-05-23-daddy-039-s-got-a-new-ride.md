@@ -2,8 +2,6 @@
 title: "Daddy&#039;s got a new ride!"
 date: 2011-05-23
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/05/23/daddys-got-a-new-ride-2/
 draft: false
 ---

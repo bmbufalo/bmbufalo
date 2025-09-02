@@ -2,8 +2,6 @@
 title: "The worst desktop color scheme ever recorded"
 date: 2011-04-27
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/27/the-worst-desktop-color-scheme-ever-recorded/
 draft: false
 ---

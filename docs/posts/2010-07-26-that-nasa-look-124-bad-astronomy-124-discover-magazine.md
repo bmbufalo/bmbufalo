@@ -2,8 +2,6 @@
 title: "That NASA look &#124; Bad Astronomy &#124; Discover Magazine"
 date: 2010-07-26
 updated: 2010-07-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/26/that-nasa-look-bad-astronomy-discover-magazine-2/
 draft: false
 ---

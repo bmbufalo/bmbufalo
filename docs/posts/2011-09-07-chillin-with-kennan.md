@@ -2,8 +2,6 @@
 title: "Chillin with Kennan"
 date: 2011-09-07
 updated: 2011-09-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/09/07/chillin-with-kennan/
 draft: false
 ---

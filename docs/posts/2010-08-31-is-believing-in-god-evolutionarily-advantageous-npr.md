@@ -2,8 +2,6 @@
 title: "Is Believing In God Evolutionarily Advantageous? : NPR"
 date: 2010-08-31
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/31/is-believing-in-god-evolutionarily-advantageous-npr/
 draft: false
 ---

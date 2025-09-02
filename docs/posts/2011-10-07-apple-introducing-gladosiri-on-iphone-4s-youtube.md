@@ -2,8 +2,6 @@
 title: "Apple - Introducing GLaDOSiri on iPhone 4S - YouTube"
 date: 2011-10-07
 updated: 2011-10-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/10/07/apple-introducing-gladosiri-on-iphone-4s-youtube/
 draft: false
 ---

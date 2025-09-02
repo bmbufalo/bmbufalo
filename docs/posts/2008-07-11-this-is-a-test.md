@@ -2,8 +2,6 @@
 title: "This is a test"
 date: 2008-07-11
 updated: 2008-07-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/11/this-is-a-test/
 draft: false
 ---

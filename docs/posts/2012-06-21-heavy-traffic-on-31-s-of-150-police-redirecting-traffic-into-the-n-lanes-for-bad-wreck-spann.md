@@ -2,8 +2,6 @@
 title: "Heavy traffic on 31 S of 150. Police redirecting traffic into the N lanes for bad wreck @spann"
 date: 2012-06-21
 updated: 2012-06-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/21/heavy-traffic-on-31-s-of-150-police-redirecting/
 draft: false
 ---

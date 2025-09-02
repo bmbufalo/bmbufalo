@@ -2,8 +2,6 @@
 title: "My weather people have been frozen for three days Weather Channel let them go home!"
 date: 2010-10-16
 updated: 2010-10-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/16/my-weather-people-have-been-frozen-for-three-days-weather-channel-let-them-go-home/
 draft: false
 ---

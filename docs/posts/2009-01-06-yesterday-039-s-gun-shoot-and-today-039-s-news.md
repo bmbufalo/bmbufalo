@@ -2,8 +2,6 @@
 title: "Yesterday&#039;s Gun Shoot and Today&#039;s News"
 date: 2009-01-06
 updated: 2009-01-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/01/06/yesterdays-gun-shoot-and-todays-news/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Sleepy dog is sleepy."
 date: 2010-10-06
 updated: 2010-10-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/06/sleepy-dog-is-sleepy/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Briar Leigh born Thursday June 25th 2009 7 lbs 6 oz"
 date: 2009-06-29
 updated: 2009-06-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/06/29/briar-leigh-born-thursday-june-25th-2009-7-lbs-6-oz/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Some cheap entertainment"
 date: 2008-05-05
 updated: 2008-05-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/05/some-cheap-entertainment-2/
 draft: false
 ---

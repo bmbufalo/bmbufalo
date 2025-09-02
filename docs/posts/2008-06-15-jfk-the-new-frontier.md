@@ -2,8 +2,6 @@
 title: "JFK - The New Frontier"
 date: 2008-06-15
 updated: 2008-06-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/15/jfk-the-new-frontier/
 draft: false
 ---

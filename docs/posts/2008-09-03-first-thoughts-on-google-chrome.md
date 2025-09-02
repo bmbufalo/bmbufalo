@@ -2,8 +2,6 @@
 title: "First Thoughts on Google Chrome"
 date: 2008-09-03
 updated: 2008-09-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/09/03/first-thoughts-on-google-chrome/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Swimming at the pool with these guys!"
 date: 2012-06-17
 updated: 2012-06-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/17/swimming-at-the-pool-with-these-guys/
 draft: false
 ---

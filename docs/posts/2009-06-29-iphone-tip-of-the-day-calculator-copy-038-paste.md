@@ -2,8 +2,6 @@
 title: "iPhone tip of the day: Calculator Copy &#038; Paste"
 date: 2009-06-29
 updated: 2009-06-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/06/29/iphone-tip-of-the-day-calculator-copy-paste/
 draft: false
 ---

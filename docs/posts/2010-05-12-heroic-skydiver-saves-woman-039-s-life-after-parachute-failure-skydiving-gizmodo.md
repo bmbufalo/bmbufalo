@@ -2,8 +2,6 @@
 title: "Heroic Skydiver Saves Woman&#039;s Life After Parachute Failure - skydiving - Gizmodo"
 date: 2010-05-12
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/05/12/heroic-skydiver-saves-womans-life-after-parachute-failure-skydiving-gizmodo-2/
 draft: false
 ---

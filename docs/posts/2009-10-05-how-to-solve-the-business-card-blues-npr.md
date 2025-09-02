@@ -2,8 +2,6 @@
 title: "How To Solve The Business Card Blues : NPR"
 date: 2009-10-05
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/05/how-to-solve-the-business-card-blues-npr/
 draft: false
 ---

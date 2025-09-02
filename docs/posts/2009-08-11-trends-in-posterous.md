@@ -2,8 +2,6 @@
 title: "Trends in Posterous"
 date: 2009-08-11
 updated: 2009-08-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/11/trends-in-posterous/
 draft: false
 ---

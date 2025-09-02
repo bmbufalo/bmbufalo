@@ -2,8 +2,6 @@
 title: "How To Survive When Your Elevator Plunges : Krulwich Wonders… : NPR"
 date: 2010-09-27
 updated: 2010-09-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/09/27/how-to-survive-when-your-elevator-plunges-krulwich-wonders-npr/
 draft: false
 ---

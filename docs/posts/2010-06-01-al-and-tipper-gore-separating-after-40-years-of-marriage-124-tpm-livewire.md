@@ -2,8 +2,6 @@
 title: "Al And Tipper Gore Separating After 40 Years Of Marriage &#124; TPM LiveWire"
 date: 2010-06-01
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/01/al-and-tipper-gore-separating-after-40-years-of-marriage-tpm-livewire-2/
 draft: false
 ---

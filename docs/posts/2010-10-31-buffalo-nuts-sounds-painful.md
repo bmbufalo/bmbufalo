@@ -2,8 +2,6 @@
 title: "Buffalo Nuts…sounds painful!"
 date: 2010-10-31
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/31/buffalo-nutssounds-painful/
 draft: false
 ---

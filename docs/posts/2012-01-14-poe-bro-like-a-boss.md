@@ -2,8 +2,6 @@
 title: "Poe Bro - Like a boss"
 date: 2012-01-14
 updated: 2012-01-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/14/poe-bro-like-a-boss/
 draft: false
 ---

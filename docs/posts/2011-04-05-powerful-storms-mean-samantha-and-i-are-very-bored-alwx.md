@@ -2,8 +2,6 @@
 title: "Powerful storms mean Samantha and I are very bored! #alwx"
 date: 2011-04-05
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/05/powerful-storms-mean-samantha-and-i-are-very-bored-alwx-2/
 draft: false
 ---

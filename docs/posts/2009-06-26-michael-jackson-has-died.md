@@ -2,8 +2,6 @@
 title: "Michael Jackson has died"
 date: 2009-06-26
 updated: 2009-06-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/06/26/michael-jackson-has-died/
 draft: false
 ---

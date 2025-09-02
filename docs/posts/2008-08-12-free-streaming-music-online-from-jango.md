@@ -2,8 +2,6 @@
 title: "Free Streaming Music Online From Jango"
 date: 2008-08-12
 updated: 2008-08-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/08/12/free-streaming-music-online-from-jango/
 draft: false
 ---

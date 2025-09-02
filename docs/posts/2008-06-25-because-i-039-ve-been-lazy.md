@@ -2,8 +2,6 @@
 title: "Because I&#039;ve been lazy..."
 date: 2008-06-25
 updated: 2008-06-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/25/because-ive-been-lazy/
 draft: false
 ---

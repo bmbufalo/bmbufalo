@@ -2,8 +2,6 @@
 title: "Voyager near Solar System&#039;s edge via @BBCNews"
 date: 2010-12-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/14/voyager-near-solar-systems-edge-via-bbcnews/
 draft: false
 ---

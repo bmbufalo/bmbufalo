@@ -2,8 +2,6 @@
 title: "Traffic: Posterous vs. Blogger"
 date: 2009-10-12
 updated: 2009-10-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/12/traffic-posterous-vs-blogger/
 draft: false
 ---

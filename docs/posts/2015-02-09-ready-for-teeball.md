@@ -2,8 +2,6 @@
 title: "Ready for teeball!"
 date: 2015-02-09
 updated: 2015-02-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/02/09/ready-for-teeball/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Looks like Alabama is beating Auburn at cookie eating here at @teklinks today! #rolltide"
 date: 2014-12-02
 updated: 2014-12-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/12/02/looks-like-alabama-is-beating-auburn-at-cookie-eating-here-at-teklinks-today-rolltide/
 draft: false
 ---

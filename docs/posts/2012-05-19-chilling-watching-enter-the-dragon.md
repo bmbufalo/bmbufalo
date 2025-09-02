@@ -2,8 +2,6 @@
 title: "Chilling, watching Enter the Dragon."
 date: 2012-05-19
 updated: 2012-05-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/19/chilling-watching-enter-the-dragon/
 draft: false
 ---

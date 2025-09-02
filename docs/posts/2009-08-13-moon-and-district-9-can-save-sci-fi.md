@@ -2,8 +2,6 @@
 title: "Moon And District 9 Can Save Sci-Fi"
 date: 2009-08-13
 updated: 2009-08-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/13/moon-and-district-9-can-save-sci-fi/
 draft: false
 ---

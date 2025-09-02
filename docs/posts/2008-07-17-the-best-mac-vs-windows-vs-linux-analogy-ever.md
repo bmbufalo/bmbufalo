@@ -2,8 +2,6 @@
 title: "The best Mac vs. Windows vs. Linux analogy EVER!"
 date: 2008-07-17
 updated: 2008-07-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/17/the-best-mac-vs-windows-vs-linux-analogy-ever/
 draft: false
 ---

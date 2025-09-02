@@ -2,8 +2,6 @@
 title: "Apple Event September 2024"
 date: 2024-09-09
 updated: 2024-09-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2024/09/09/apple-event-september-2024/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "First Private Spacecraft In Orbit After Perfect Launch (Updated)"
 date: 2010-12-08
 updated: 2010-12-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/08/first-private-spacecraft-in-orbit-after-perfect-launch-updated/
 draft: false
 ---

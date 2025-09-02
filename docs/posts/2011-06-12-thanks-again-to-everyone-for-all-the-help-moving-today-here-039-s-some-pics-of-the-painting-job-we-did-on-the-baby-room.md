@@ -2,8 +2,6 @@
 title: "Thanks again to everyone for all the help moving today! Here&#039;s some pics of the painting job we did on the baby room."
 date: 2011-06-12
 updated: 2011-06-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/12/thanks-again-to-everyone-for-all-the-help-moving-today-heres-some-pics-of-the-painting-job-we-did-on-the-baby-room-2/
 draft: false
 ---

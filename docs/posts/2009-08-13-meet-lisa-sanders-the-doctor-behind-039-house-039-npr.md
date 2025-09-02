@@ -2,8 +2,6 @@
 title: "Meet Lisa Sanders, The Doctor Behind &#039;House&#039; : NPR"
 date: 2009-08-13
 updated: 2009-08-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/13/meet-lisa-sanders-the-doctor-behind-house-npr/
 draft: false
 ---

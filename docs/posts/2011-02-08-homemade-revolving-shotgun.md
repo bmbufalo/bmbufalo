@@ -2,8 +2,6 @@
 title: "Homemade Revolving Shotgun"
 date: 2011-02-08
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/02/08/homemade-revolving-shotgun/
 draft: false
 ---

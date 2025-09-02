@@ -2,8 +2,6 @@
 title: "Mark Ingram of Alabama Crimson Tide has knee injury, ruled out against San Jose State - ESPN"
 date: 2010-08-31
 updated: 2010-08-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/31/mark-ingram-of-alabama-crimson-tide-has-knee-injury-ruled-out-against-san-jose-state-espn/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Tickets...and not the good kind"
 date: 2008-05-31
 updated: 2008-05-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/31/tickets-and-not-the-good-kind/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Internet Speed Test: The Fastest ISPs in the U.S. 2010 &#124; PCMag.com"
 date: 2010-06-28
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/28/internet-speed-test-the-fastest-isps-in-the-u-s-2010-pcmag-com/
 draft: false
 ---

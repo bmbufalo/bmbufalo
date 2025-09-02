@@ -2,8 +2,6 @@
 title: "Watching The Thing"
 date: 2013-03-18
 updated: 2013-03-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/03/18/watching-the-thing/
 draft: false
 ---

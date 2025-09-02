@@ -2,8 +2,6 @@
 title: "You Won&#039;t Need Chairlifts with the Fastest Snow Car In the World"
 date: 2009-11-03
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/11/03/you-wont-need-chairlifts-with-the-fastest-snow-car-in-the-world/
 draft: false
 ---

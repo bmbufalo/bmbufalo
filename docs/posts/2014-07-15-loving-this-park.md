@@ -2,8 +2,6 @@
 title: "Loving this park!"
 date: 2014-07-15
 updated: 2014-07-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/07/15/loving-this-park/
 draft: false
 ---

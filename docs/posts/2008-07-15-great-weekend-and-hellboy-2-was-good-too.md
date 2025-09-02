@@ -2,8 +2,6 @@
 title: "Great weekend! And Hellboy 2 Was Good, Too!"
 date: 2008-07-15
 updated: 2008-07-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/15/great-weekend-and-hellboy-2-was-good-too/
 draft: false
 ---

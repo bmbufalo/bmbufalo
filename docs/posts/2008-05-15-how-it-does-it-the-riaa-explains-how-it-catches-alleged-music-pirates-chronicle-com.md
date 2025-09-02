@@ -2,8 +2,6 @@
 title: "How It Does It: The RIAA Explains How It Catches Alleged Music Pirates - Chronicle.com"
 date: 2008-05-15
 updated: 2008-05-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/15/how-it-does-it-the-riaa-explains-how-it-catches-alleged-music-pirates-chronicle-com/
 draft: false
 ---

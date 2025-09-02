@@ -2,8 +2,6 @@
 title: "How Did Whales Evolve?"
 date: 2010-12-09
 updated: 2010-12-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/09/how-did-whales-evolve/
 draft: false
 ---

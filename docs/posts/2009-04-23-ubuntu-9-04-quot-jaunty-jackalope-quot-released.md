@@ -2,8 +2,6 @@
 title: "Ubuntu 9.04 &quot;Jaunty Jackalope&quot; Released"
 date: 2009-04-23
 updated: 2009-04-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/23/ubuntu-9-04-jaunty-jackalope-released/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Trick Out Google Apps for Your Domain - Gmail - Lifehacker"
 date: 2009-10-28
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/28/trick-out-google-apps-for-your-domain-gmail-lifehacker/
 draft: false
 ---

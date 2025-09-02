@@ -2,8 +2,6 @@
 title: "AT&#038;T Better Fix This!"
 date: 2009-03-18
 updated: 2009-03-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/03/18/att-better-fix-this/
 draft: false
 ---

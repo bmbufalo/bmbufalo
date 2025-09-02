@@ -2,8 +2,6 @@
 title: "Started nesting already!"
 date: 2011-06-19
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/19/started-nesting-already-2/
 draft: false
 ---

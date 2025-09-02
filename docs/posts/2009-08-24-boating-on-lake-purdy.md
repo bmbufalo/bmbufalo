@@ -2,8 +2,6 @@
 title: "Boating on Lake Purdy"
 date: 2009-08-24
 updated: 2009-08-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/24/boating-on-lake-purdy/
 draft: false
 ---

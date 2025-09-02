@@ -2,8 +2,6 @@
 title: "RIP Comedian Greg Giraldo, Dead At 44 - Screen Rant"
 date: 2010-09-30
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/09/30/rip-comedian-greg-giraldo-dead-at-44-screen-rant/
 draft: false
 ---

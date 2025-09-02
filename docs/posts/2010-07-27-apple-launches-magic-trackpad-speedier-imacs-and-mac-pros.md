@@ -2,8 +2,6 @@
 title: "Apple Launches Magic Trackpad, Speedier iMacs and Mac Pros"
 date: 2010-07-27
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/27/apple-launches-magic-trackpad-speedier-imacs-and-mac-pros-2/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "@V_DUB_BOY Saw this the other day at a little local festival and thought of you!"
 date: 2012-06-10
 updated: 2012-06-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/10/v_dub_boy-saw-this-the-other-day-at-a-little-local-festival-and-thought-of-you/
 draft: false
 ---

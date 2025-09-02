@@ -2,8 +2,6 @@
 title: "Sweet thoughts of nothing"
 date: 2012-01-27
 updated: 2012-01-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/27/sweet-thoughts-of-nothing/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Unable to start mail session Microsoft SQL errors"
 date: 2009-02-19
 updated: 2009-02-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/02/19/unable-to-start-mail-session-microsoft-sql-errors/
 draft: false
 ---

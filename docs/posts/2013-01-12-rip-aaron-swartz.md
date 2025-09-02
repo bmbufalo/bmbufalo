@@ -2,8 +2,6 @@
 title: "RIP, Aaron Swartz"
 date: 2013-01-12
 updated: 2013-01-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/01/12/rip-aaron-swartz/
 draft: false
 ---

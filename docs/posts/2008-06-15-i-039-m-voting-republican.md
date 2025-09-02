@@ -2,8 +2,6 @@
 title: "I&#039;m Voting Republican"
 date: 2008-06-15
 updated: 2008-06-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/15/im-voting-republican/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Birthday this Saturday"
 date: 2008-07-11
 updated: 2008-07-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/11/birthday-this-saturday/
 draft: false
 ---

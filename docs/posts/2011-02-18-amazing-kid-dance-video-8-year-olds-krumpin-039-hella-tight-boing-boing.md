@@ -2,8 +2,6 @@
 title: "Amazing kid dance video: 8-year-olds krumpin&#039; hella tight - Boing Boing"
 date: 2011-02-18
 updated: 2011-02-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/02/18/amazing-kid-dance-video-8-year-olds-krumpin-hella-tight-boing-boing/
 draft: false
 ---

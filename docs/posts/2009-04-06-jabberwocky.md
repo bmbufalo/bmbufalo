@@ -2,8 +2,6 @@
 title: "Jabberwocky"
 date: 2009-04-06
 updated: 2009-04-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/06/jabberwocky/
 draft: false
 ---

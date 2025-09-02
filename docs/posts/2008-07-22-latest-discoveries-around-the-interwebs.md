@@ -2,8 +2,6 @@
 title: "Latest Discoveries Around the Interwebs"
 date: 2008-07-22
 updated: 2008-07-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/22/latest-discoveries-around-the-interwebs/
 draft: false
 ---

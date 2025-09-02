@@ -2,8 +2,6 @@
 title: "At Blue Rain Express"
 date: 2012-10-26
 updated: 2012-10-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/10/26/at-blue-rain-express/
 draft: false
 ---

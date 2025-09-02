@@ -2,8 +2,6 @@
 title: "NC Neighbors -- VOTE &#039;08"
 date: 2008-11-03
 updated: 2008-11-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/11/03/nc-neighbors-vote-08/
 draft: false
 ---

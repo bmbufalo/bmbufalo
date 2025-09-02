@@ -2,8 +2,6 @@
 title: "One Man Wolf Pack"
 date: 2011-03-05
 updated: 2011-03-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/05/one-man-wolf-pack/
 draft: false
 ---

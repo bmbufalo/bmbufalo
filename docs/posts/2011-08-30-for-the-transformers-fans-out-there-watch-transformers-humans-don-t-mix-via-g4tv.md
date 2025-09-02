@@ -2,8 +2,6 @@
 title: "For the Transformers fans out there, watch: Transformers & Humans Don't Mix via @g4tv"
 date: 2011-08-30
 updated: 2011-08-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/08/30/for-the-transformers-fans-out-there-watch-transformers-humans-dont-mix-via-g4tv/
 draft: false
 ---

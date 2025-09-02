@@ -2,8 +2,6 @@
 title: "SharePoint Migration Tool"
 date: 2022-11-21
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/?p=168
 draft: false
 ---

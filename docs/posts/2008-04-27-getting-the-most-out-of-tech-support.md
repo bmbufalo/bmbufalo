@@ -2,8 +2,6 @@
 title: "Getting the most out of Tech Support"
 date: 2008-04-27
 updated: 2008-04-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/27/getting-the-most-out-of-tech-support/
 draft: false
 ---

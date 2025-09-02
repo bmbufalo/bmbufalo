@@ -2,8 +2,6 @@
 title: "When did Twitter change their home page? Am I out of the loop?"
 date: 2009-07-30
 updated: 2009-07-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/07/30/when-did-twitter-change-their-home-page-am-i-out-of-the-loop/
 draft: false
 ---

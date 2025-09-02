@@ -2,8 +2,6 @@
 title: "DreamHost Web Hosting: Limited Time Sale!"
 date: 2009-12-21
 updated: 2009-12-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/12/21/dreamhost-web-hosting-limited-time-sale/
 draft: false
 ---

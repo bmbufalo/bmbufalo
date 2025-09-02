@@ -2,8 +2,6 @@
 title: "@John_A_Adams strikes again!"
 date: 2011-03-12
 updated: 2011-03-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/12/john_a_adams-strikes-again/
 draft: false
 ---

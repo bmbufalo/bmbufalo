@@ -2,8 +2,6 @@
 title: "Happy Birthday Lucy!"
 date: 2011-03-12
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/12/happy-birthday-lucy/
 draft: false
 ---

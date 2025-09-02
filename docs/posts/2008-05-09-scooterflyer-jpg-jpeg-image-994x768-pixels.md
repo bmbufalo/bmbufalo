@@ -2,8 +2,6 @@
 title: "ScooterFlyer.jpg (JPEG Image, 994x768 pixels)"
 date: 2008-05-09
 updated: 2008-05-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/09/scooterflyer-jpg-jpeg-image-994x768-pixels/
 draft: false
 ---

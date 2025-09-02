@@ -2,8 +2,6 @@
 title: "Finally, a crack down"
 date: 2008-04-23
 updated: 2008-04-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/23/finally-a-crack-down/
 draft: false
 ---

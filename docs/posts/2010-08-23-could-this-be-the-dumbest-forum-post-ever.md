@@ -2,8 +2,6 @@
 title: "Could this be the dumbest forum post ever?"
 date: 2010-08-23
 updated: 2010-08-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/23/could-this-be-the-dumbest-forum-post-ever-2/
 draft: false
 ---

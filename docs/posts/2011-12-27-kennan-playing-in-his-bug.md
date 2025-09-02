@@ -2,8 +2,6 @@
 title: "Kennan playing in his bug."
 date: 2011-12-27
 updated: 2011-12-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/27/kennan-playing-in-his-bug/
 draft: false
 ---

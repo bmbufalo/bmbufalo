@@ -2,8 +2,6 @@
 title: "Yes, this book does taste good!"
 date: 2012-06-01
 updated: 2012-06-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/01/yes-this-book-does-taste-good/
 draft: false
 ---

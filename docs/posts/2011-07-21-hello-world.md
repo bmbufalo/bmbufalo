@@ -2,8 +2,6 @@
 title: "Hello world!"
 date: 2011-07-21
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/21/hello-world-3/
 draft: false
 ---

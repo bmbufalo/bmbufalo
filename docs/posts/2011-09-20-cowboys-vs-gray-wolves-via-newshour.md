@@ -2,8 +2,6 @@
 title: "Cowboys vs Gray Wolves via @newshour"
 date: 2011-09-20
 updated: 2011-09-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/09/20/cowboys-vs-gray-wolves-via-newshour/
 draft: false
 ---

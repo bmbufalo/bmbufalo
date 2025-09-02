@@ -2,8 +2,6 @@
 title: "At Mimi's Cafe"
 date: 2013-02-28
 updated: 2013-02-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/02/28/at-mimis-cafe/
 draft: false
 ---

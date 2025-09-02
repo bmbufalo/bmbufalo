@@ -2,8 +2,6 @@
 title: "Fake Zac Brown #Buffett"
 date: 2011-05-24
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/05/24/fake-zac-brown-buffett-2/
 draft: false
 ---

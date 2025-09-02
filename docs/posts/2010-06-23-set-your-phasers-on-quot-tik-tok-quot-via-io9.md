@@ -2,8 +2,6 @@
 title: "Set your phasers on &quot;Tik Tok&quot; via @io9"
 date: 2010-06-23
 updated: 2010-06-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/23/set-your-phasers-on-tik-tok-via-io9/
 draft: false
 ---

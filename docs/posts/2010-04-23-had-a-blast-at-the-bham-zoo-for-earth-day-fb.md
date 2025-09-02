@@ -2,8 +2,6 @@
 title: "Had a blast at the Bham Zoo for Earth Day! #fb"
 date: 2010-04-23
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/04/23/had-a-blast-at-the-bham-zoo-for-earth-day-fb/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "The Boston Globe has made a permanent change to its paywall in reaction to the week's news."
 date: 2013-04-22
 updated: 2013-04-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/04/22/the-boston-globe-has-made-a-permanent-change-to-its/
 draft: false
 ---

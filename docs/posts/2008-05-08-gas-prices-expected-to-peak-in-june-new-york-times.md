@@ -2,8 +2,6 @@
 title: "Gas Prices Expected to Peak in June - New York Times"
 date: 2008-05-08
 updated: 2008-05-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/08/gas-prices-expected-to-peak-in-june-new-york-times/
 draft: false
 ---

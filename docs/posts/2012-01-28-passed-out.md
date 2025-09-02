@@ -2,8 +2,6 @@
 title: "Passed out"
 date: 2012-01-28
 updated: 2012-01-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/28/passed-out/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "A Cappella Group does &quot;Poker Face&quot;"
 date: 2009-12-11
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/12/11/a-cappella-group-does-poker-face/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "State of the art technology! Check it out:"
 date: 2011-06-16
 updated: 2011-06-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/16/state-of-the-art-technology-check-it-out/
 draft: false
 ---

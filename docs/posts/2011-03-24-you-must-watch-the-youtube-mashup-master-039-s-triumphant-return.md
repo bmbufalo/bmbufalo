@@ -2,8 +2,6 @@
 title: "You Must Watch the YouTube Mashup Master&#039;s Triumphant Return"
 date: 2011-03-24
 updated: 2011-03-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/24/you-must-watch-the-youtube-mashup-masters-triumphant-return/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Just got a bath."
 date: 2012-05-21
 updated: 2012-05-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/21/just-got-a-bath/
 draft: false
 ---

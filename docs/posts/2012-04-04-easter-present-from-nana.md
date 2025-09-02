@@ -2,8 +2,6 @@
 title: "Easter present from Nana!"
 date: 2012-04-04
 updated: 2012-04-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/04/04/easter-present-from-nana/
 draft: false
 ---

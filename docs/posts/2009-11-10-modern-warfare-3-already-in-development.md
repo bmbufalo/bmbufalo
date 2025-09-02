@@ -2,8 +2,6 @@
 title: "Modern Warfare 3 Already in Development"
 date: 2009-11-10
 updated: 2009-11-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/11/10/modern-warfare-3-already-in-development/
 draft: false
 ---

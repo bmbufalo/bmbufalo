@@ -2,8 +2,6 @@
 title: "Day One at Automattic | Day One"
 date: 2021-06-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/06/14/day-one-at-automattic-day-one/
 draft: false
 ---

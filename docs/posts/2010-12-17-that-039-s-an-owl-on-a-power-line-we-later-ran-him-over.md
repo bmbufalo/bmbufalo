@@ -2,8 +2,6 @@
 title: "That&#039;s an owl on a power line. We later ran him over."
 date: 2010-12-17
 updated: 2010-12-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/17/thats-an-owl-on-a-power-line-we-later-ran-him-over/
 draft: false
 ---

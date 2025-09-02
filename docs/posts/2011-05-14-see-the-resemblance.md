@@ -2,8 +2,6 @@
 title: "See the resemblance?"
 date: 2011-05-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/05/14/see-the-resemblance/
 draft: false
 ---

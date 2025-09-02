@@ -2,8 +2,6 @@
 title: "Spaceports: Earth-Moon System Formation Date May Have Been 150 Million Years After Solar System"
 date: 2010-06-08
 updated: 2010-06-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/08/spaceports-earth-moon-system-formation-date-may-have-been-150-million-years-after-solar-system-2/
 draft: false
 ---

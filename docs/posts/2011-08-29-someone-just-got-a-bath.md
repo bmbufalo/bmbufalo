@@ -2,8 +2,6 @@
 title: "Someone just got a bath."
 date: 2011-08-29
 updated: 2011-08-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/08/29/someone-just-got-a-bath/
 draft: false
 ---

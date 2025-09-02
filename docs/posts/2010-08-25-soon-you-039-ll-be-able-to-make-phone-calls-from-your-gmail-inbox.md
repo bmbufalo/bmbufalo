@@ -2,8 +2,6 @@
 title: "Soon You&#039;ll Be Able To Make Phone Calls From Your Gmail Inbox"
 date: 2010-08-25
 updated: 2010-08-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/25/soon-youll-be-able-to-make-phone-calls-from-your-gmail-inbox-2/
 draft: false
 ---

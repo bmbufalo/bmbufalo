@@ -2,8 +2,6 @@
 title: "Twitters Response to Today&#039;s Outage"
 date: 2009-08-06
 updated: 2009-08-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/06/twitters-response-to-todays-outage/
 draft: false
 ---

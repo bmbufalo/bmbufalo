@@ -2,8 +2,6 @@
 title: "You could be a zombie on The Walking Dead TV series!"
 date: 2010-05-31
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/05/31/you-could-be-a-zombie-on-the-walking-dead-tv-series/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Magic City Brewfest...here I come!"
 date: 2008-05-29
 updated: 2008-05-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/29/magic-city-brewfest-here-i-come/
 draft: false
 ---

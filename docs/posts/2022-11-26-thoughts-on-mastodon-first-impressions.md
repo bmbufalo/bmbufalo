@@ -2,8 +2,6 @@
 title: "Thoughts on Mastodon: First impressions"
 date: 2022-11-26
 updated: 2022-11-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2022/11/26/thoughts-on-mastodon-first-impressions/
 draft: false
 ---

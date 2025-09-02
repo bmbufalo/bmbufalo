@@ -2,8 +2,6 @@
 title: "Cast your Vote!"
 date: 2008-06-25
 updated: 2008-06-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/25/cast-your-vote/
 draft: false
 ---

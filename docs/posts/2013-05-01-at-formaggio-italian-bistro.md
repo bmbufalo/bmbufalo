@@ -2,8 +2,6 @@
 title: "At Formaggio Italian Bistro"
 date: 2013-05-01
 updated: 2013-05-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/05/01/at-formaggio-italian-bistro/
 draft: false
 ---

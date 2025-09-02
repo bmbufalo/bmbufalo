@@ -2,8 +2,6 @@
 title: "Tethering and iPhone 3.1: Hopefully soon"
 date: 2009-09-10
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/10/tethering-and-iphone-3-1-hopefully-soon-2/
 draft: false
 ---

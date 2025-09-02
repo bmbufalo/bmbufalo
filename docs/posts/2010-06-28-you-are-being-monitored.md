@@ -2,8 +2,6 @@
 title: "You Are Being Monitored"
 date: 2010-06-28
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/28/you-are-being-monitored/
 draft: false
 ---

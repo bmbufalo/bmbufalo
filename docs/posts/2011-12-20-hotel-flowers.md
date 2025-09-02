@@ -2,8 +2,6 @@
 title: "Hotel flowers"
 date: 2011-12-20
 updated: 2011-12-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/20/hotel-flowers/
 draft: false
 ---

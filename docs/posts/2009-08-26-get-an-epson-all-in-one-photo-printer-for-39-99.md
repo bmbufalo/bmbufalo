@@ -2,8 +2,6 @@
 title: "Get an Epson all-in-one photo printer for $39.99"
 date: 2009-08-26
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/26/get-an-epson-all-in-one-photo-printer-for-39-99/
 draft: false
 ---

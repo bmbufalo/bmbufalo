@@ -2,8 +2,6 @@
 title: "Kennan's first walk!"
 date: 2012-05-10
 updated: 2012-05-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/10/kennans-first-walk/
 draft: false
 ---

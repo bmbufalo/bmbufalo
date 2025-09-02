@@ -2,8 +2,6 @@
 title: "Facebook adds &quot;@&quot; replies a la Twitter"
 date: 2009-09-10
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/10/facebook-adds-replies-a-la-twitter-2/
 draft: false
 ---

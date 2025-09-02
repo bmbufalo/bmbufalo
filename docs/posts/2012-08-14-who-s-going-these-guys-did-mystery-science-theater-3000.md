@@ -2,8 +2,6 @@
 title: "Who's going!? These guys did Mystery Science Theater 3000!"
 date: 2012-08-14
 updated: 2012-08-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/08/14/whos-going-these-guys-did-mystery-science-theater/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "18th-century etching of a meteor breaking apart - Boing Boing"
 date: 2010-10-05
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/05/18th-century-etching-of-a-meteor-breaking-apart-boing-boing-2/
 draft: false
 ---

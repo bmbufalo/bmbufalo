@@ -2,8 +2,6 @@
 title: "Puzzle night"
 date: 2015-02-10
 updated: 2015-02-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/02/10/puzzle-night/
 draft: false
 ---

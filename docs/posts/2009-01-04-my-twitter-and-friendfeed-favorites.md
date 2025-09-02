@@ -2,8 +2,6 @@
 title: "My Twitter and FriendFeed favorites!"
 date: 2009-01-04
 updated: 2009-01-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/01/04/my-twitter-and-friendfeed-favorites/
 draft: false
 ---

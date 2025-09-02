@@ -2,8 +2,6 @@
 title: "Nothing exciting..."
 date: 2008-05-12
 updated: 2008-05-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/12/nothing-exciting/
 draft: false
 ---

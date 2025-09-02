@@ -2,8 +2,6 @@
 title: "Cyberduck and Duck CLI"
 date: 2022-11-21
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/?p=178
 draft: false
 ---

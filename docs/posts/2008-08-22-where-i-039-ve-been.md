@@ -2,8 +2,6 @@
 title: "Where I&#039;ve Been"
 date: 2008-08-22
 updated: 2008-08-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/08/22/where-ive-been/
 draft: false
 ---

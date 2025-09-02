@@ -2,8 +2,6 @@
 title: "OK Go&#039;s new music video &quot;End Love&quot; is another piece of awesome!"
 date: 2010-06-17
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/17/ok-gos-new-music-video-end-love-is-another-piece-of-awesome/
 draft: false
 ---

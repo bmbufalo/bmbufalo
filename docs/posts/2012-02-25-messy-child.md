@@ -2,8 +2,6 @@
 title: "Messy child"
 date: 2012-02-25
 updated: 2012-02-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/25/messy-child/
 draft: false
 ---

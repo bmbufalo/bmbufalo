@@ -2,8 +2,6 @@
 title: "So tired today! @sabufalo"
 date: 2012-06-09
 updated: 2012-06-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/09/so-tired-today-sabufalo/
 draft: false
 ---

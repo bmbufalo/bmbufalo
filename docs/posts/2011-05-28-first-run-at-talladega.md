@@ -2,8 +2,6 @@
 title: "First run at Talladega!"
 date: 2011-05-28
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/05/28/first-run-at-talladega/
 draft: false
 ---

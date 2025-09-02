@@ -2,8 +2,6 @@
 title: "Jabba the Snowman: Greatest Snowman or Laziest Snowman? &#124; Tosh.0 Blog"
 date: 2010-12-23
 updated: 2010-12-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/23/jabba-the-snowman-greatest-snowman-or-laziest-snowman-tosh-0-blog/
 draft: false
 ---

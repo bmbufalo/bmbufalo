@@ -2,8 +2,6 @@
 title: "iPhone camera photos"
 date: 2009-08-10
 updated: 2009-08-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/10/iphone-camera-photos/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Spring has come and our roses are blooming!"
 date: 2015-04-19
 updated: 2015-04-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2015/04/19/spring-has-come-and-our-roses-are-blooming/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "At Las Casitas Mexican Restaurant"
 date: 2013-03-01
 updated: 2013-03-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/03/01/at-las-casitas-mexican-restaurant/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Took our niece to the zoo, not sure who was more excited, her or me!"
 date: 2010-12-04
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/04/took-our-niece-to-the-zoo-not-sure-who-was-more-excited-her-or-me-2/
 draft: false
 ---

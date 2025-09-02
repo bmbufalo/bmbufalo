@@ -2,8 +2,6 @@
 title: "@RachaelRayShow is in my psychology book! Se&#039;s everywhere!!!"
 date: 2010-10-15
 updated: 2010-10-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/15/rachaelrayshow-is-in-my-psychology-book-ses-everywhere/
 draft: false
 ---

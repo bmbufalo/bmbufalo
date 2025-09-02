@@ -2,8 +2,6 @@
 title: "The coolest thing since sliced bread...and Firefox"
 date: 2008-05-07
 updated: 2008-05-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/07/the-coolest-thing-since-sliced-bread-and-firefox/
 draft: false
 ---

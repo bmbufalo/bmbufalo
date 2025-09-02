@@ -2,8 +2,6 @@
 title: "I know that&#039;s &quot;Roll Tide Y&#039;all&quot; but I read it as &quot;re-tweet y&#039;all&quot; #toomuchtimeontwitter"
 date: 2011-03-20
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/20/i-know-thats-roll-tide-yall-but-i-read-it-as-re-tweet-yall-toomuchtimeontwitter/
 draft: false
 ---

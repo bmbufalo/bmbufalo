@@ -2,8 +2,6 @@
 title: "Amazing pics: Grizzly chases bison in Yellowstone"
 date: 2010-11-03
 updated: 2010-11-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/03/amazing-pics-grizzly-chases-bison-in-yellowstone-2/
 draft: false
 ---

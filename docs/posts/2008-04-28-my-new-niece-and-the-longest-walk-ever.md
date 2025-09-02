@@ -2,8 +2,6 @@
 title: "My New Niece and The Longest Walk Ever"
 date: 2008-04-28
 updated: 2008-04-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/28/my-new-niece-and-the-longest-walk-ever/
 draft: false
 ---

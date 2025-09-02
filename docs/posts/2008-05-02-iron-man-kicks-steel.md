@@ -2,8 +2,6 @@
 title: "Iron Man Kicks Steel!"
 date: 2008-05-02
 updated: 2008-05-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/02/iron-man-kicks-steel/
 draft: false
 ---

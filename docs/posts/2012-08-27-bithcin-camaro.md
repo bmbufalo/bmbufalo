@@ -2,8 +2,6 @@
 title: "Bithcin Camaro"
 date: 2012-08-27
 updated: 2012-08-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/08/27/bithcin-camaro/
 draft: false
 ---

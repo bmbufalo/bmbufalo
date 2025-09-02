@@ -2,8 +2,6 @@
 title: "Sunset over Panama City. at Casa Loma – View on Path."
 date: 2013-05-27
 updated: 2013-05-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/05/27/sunset-over-panama-city-at-casa-loma-view-on-path/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Some Google Doc&#039;s Fanboy love"
 date: 2008-04-27
 updated: 2008-04-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/27/some-google-docs-fanboy-love/
 draft: false
 ---

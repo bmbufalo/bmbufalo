@@ -2,8 +2,6 @@
 title: "This little guy is out hard!"
 date: 2011-08-21
 updated: 2011-08-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/08/21/this-little-guy-is-out-hard/
 draft: false
 ---

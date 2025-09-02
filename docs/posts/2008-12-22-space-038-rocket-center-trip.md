@@ -2,8 +2,6 @@
 title: "Space &#038; Rocket Center Trip"
 date: 2008-12-22
 updated: 2008-12-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/22/space-rocket-center-trip/
 draft: false
 ---

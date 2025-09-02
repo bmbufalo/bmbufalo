@@ -2,8 +2,6 @@
 title: "Remember the Milk releases new version of iPhone app with Push Notification"
 date: 2009-06-29
 updated: 2009-06-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/06/29/remember-the-milk-releases-new-version-of-iphone-app-with-push-notification/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "I found a Deny&#039;s! Mmmmmmm!"
 date: 2010-10-26
 updated: 2010-10-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/26/i-found-a-denys-mmmmmmm/
 draft: false
 ---

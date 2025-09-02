@@ -2,8 +2,6 @@
 title: "At ATROX Factory"
 date: 2012-10-27
 updated: 2012-10-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/10/27/at-atrox-factory/
 draft: false
 ---

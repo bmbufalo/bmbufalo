@@ -2,8 +2,6 @@
 title: "This is only a test, please disregard!"
 date: 2009-10-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/14/this-is-only-a-test-please-disregard/
 draft: false
 ---

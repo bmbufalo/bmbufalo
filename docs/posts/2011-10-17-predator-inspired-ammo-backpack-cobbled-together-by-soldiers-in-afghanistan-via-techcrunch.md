@@ -2,8 +2,6 @@
 title: "Predator-Inspired Ammo Backpack Cobbled Together By Soldiers In Afghanistan | via @TechCrunch"
 date: 2011-10-17
 updated: 2011-10-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/10/17/predator-inspired-ammo-backpack-cobbled-together-by-soldiers-in-afghanistan-via-techcrunch/
 draft: false
 ---

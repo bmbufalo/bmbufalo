@@ -2,8 +2,6 @@
 title: "I won this awesome shwag at a luncheon today! The Darkblade!!"
 date: 2010-10-19
 updated: 2010-10-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/19/i-won-this-awesome-shwag-at-a-luncheon-today-the-darkblade/
 draft: false
 ---

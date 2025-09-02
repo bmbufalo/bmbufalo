@@ -2,8 +2,6 @@
 title: "He is hiding from his enemy, the vacuum cleaner."
 date: 2012-06-24
 updated: 2012-06-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/24/he-is-hiding-from-his-enemy-the-vacuum-cleaner-2/
 draft: false
 ---

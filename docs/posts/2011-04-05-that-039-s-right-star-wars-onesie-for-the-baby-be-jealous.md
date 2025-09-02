@@ -2,8 +2,6 @@
 title: "That&#039;s right, Star Wars onesie for the baby. Be jealous!"
 date: 2011-04-05
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/05/thats-right-star-wars-onesie-for-the-baby-be-jealous-2/
 draft: false
 ---

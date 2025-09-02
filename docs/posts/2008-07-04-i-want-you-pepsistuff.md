@@ -2,8 +2,6 @@
 title: "I want you PepsiStuff"
 date: 2008-07-04
 updated: 2008-07-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/04/i-want-you-pepsistuff/
 draft: false
 ---

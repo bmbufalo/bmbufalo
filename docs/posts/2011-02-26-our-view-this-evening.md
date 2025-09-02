@@ -2,8 +2,6 @@
 title: "Our view this evening."
 date: 2011-02-26
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/02/26/our-view-this-evening/
 draft: false
 ---

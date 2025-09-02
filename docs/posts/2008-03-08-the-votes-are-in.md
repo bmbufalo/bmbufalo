@@ -2,8 +2,6 @@
 title: "The votes are in!"
 date: 2008-03-08
 updated: 2008-03-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/03/08/the-votes-are-in/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Upcoming Movies"
 date: 2008-04-01
 updated: 2008-04-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/01/upcoming-movies/
 draft: false
 ---

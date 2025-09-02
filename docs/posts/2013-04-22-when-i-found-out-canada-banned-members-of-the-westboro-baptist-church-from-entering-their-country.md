@@ -2,8 +2,6 @@
 title: "When i found out Canada banned members of the Westboro Baptist Church from entering their country"
 date: 2013-04-22
 updated: 2013-04-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/04/22/when-i-found-out-canada-banned-members-of-the-westboro/
 draft: false
 ---

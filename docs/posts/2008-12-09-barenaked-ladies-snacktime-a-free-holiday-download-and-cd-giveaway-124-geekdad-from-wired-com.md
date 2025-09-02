@@ -2,8 +2,6 @@
 title: "Barenaked Ladies: Snacktime!, a Free Holiday Download, and CD Giveaway &#124; Geekdad from Wired.com"
 date: 2008-12-09
 updated: 2008-12-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/09/barenaked-ladies-snacktime-a-free-holiday-download-and-cd-giveaway-geekdad-from-wired-com/
 draft: false
 ---

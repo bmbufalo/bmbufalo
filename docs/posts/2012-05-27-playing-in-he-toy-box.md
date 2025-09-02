@@ -2,8 +2,6 @@
 title: "Playing in he toy box."
 date: 2012-05-27
 updated: 2012-05-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/27/playing-in-he-toy-box/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Tough Week"
 date: 2008-05-24
 updated: 2008-05-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/24/tough-week/
 draft: false
 ---

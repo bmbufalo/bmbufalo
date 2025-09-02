@@ -2,8 +2,6 @@
 title: "Google&#039;s New Spreadsheet Features"
 date: 2008-10-07
 updated: 2008-10-07
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/10/07/googles-new-spreadsheet-features/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "10 things you need to know about HDMI 1.4 &#124; News &#124; TechRadar UK"
 date: 2009-08-18
 updated: 2009-08-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/18/10-things-you-need-to-know-about-hdmi-1-4-news-techradar-uk/
 draft: false
 ---

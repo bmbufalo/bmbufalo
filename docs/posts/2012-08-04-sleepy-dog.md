@@ -2,8 +2,6 @@
 title: "Sleepy dog"
 date: 2012-08-04
 updated: 2012-08-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/08/04/sleepy-dog/
 draft: false
 ---

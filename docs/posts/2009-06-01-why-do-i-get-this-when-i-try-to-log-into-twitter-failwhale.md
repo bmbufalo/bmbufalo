@@ -2,8 +2,6 @@
 title: "Why do I get this when I try to log into Twitter... #failwhale"
 date: 2009-06-01
 updated: 2009-06-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/06/01/why-do-i-get-this-when-i-try-to-log-into-twitter-failwhale/
 draft: false
 ---

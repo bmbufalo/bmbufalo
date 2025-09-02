@@ -2,8 +2,6 @@
 title: "CADIE: Cognitive Autoheuristic Distributed-Intelligence Entity"
 date: 2009-04-01
 updated: 2009-04-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/01/cadie-cognitive-autoheuristic-distributed-intelligence-entity/
 draft: false
 ---

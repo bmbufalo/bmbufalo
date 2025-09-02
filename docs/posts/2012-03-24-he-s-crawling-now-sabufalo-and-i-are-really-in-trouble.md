@@ -2,8 +2,6 @@
 title: "He's crawling! Now @sabufalo and I are really in trouble!"
 date: 2012-03-24
 updated: 2012-03-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/24/hes-crawling-now-sabufalo-and-i-are-really-in-trouble/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Someone is sleeping in our house!"
 date: 2011-07-01
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/01/someone-is-sleeping-in-our-house/
 draft: false
 ---

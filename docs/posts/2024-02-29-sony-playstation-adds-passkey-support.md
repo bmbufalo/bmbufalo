@@ -2,8 +2,6 @@
 title: "Sony Playstation adds PassKey support"
 date: 2024-02-29
 updated: 2024-03-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2024/02/29/sony-playstation-adds-passkey-support/
 draft: false
 ---

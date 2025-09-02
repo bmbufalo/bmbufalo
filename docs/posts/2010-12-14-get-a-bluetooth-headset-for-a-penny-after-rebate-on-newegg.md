@@ -2,8 +2,6 @@
 title: "Get a bluetooth headset for a penny! (after rebate) on @newegg"
 date: 2010-12-14
 updated: 2010-12-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/14/get-a-bluetooth-headset-for-a-penny-after-rebate-on-newegg/
 draft: false
 ---

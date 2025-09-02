@@ -2,8 +2,6 @@
 title: "How Lucy takes a nap. You are doing it wrong!"
 date: 2012-03-11
 updated: 2012-03-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/11/how-lucy-takes-a-nap-you-are-doing-it-wrong/
 draft: false
 ---

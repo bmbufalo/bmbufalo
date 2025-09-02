@@ -2,8 +2,6 @@
 title: "Twitter / @dsandhaus: My cousin just pointed out ... #RickPerry"
 date: 2011-12-10
 updated: 2011-12-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/10/twitter-dsandhaus-my-cousin-just-pointed-out-rickperry/
 draft: false
 ---

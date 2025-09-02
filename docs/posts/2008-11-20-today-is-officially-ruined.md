@@ -2,8 +2,6 @@
 title: "Today is officially ruined"
 date: 2008-11-20
 updated: 2008-11-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/11/20/today-is-officially-ruined/
 draft: false
 ---

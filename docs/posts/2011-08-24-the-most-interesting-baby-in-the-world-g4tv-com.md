@@ -2,8 +2,6 @@
 title: "The Most Interesting Baby In The World - G4tv.com"
 date: 2011-08-24
 updated: 2011-08-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/08/24/the-most-interesting-baby-in-the-world-g4tv-com/
 draft: false
 ---

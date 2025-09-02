@@ -2,8 +2,6 @@
 title: "Just had a wonderful walk through the Birmingham Museum of Art, saw this:"
 date: 2010-10-03
 updated: 2010-10-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/03/just-had-a-wonderful-walk-through-the-birmingham-museum-of-art-saw-this/
 draft: false
 ---

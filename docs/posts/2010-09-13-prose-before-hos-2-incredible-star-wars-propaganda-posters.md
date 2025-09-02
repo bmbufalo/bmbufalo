@@ -2,8 +2,6 @@
 title: "Prose Before Hos 2: Incredible Star Wars Propaganda Posters"
 date: 2010-09-13
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/09/13/prose-before-hos-2-incredible-star-wars-propaganda-posters/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Microsoft Sees MSI’s Acrobuttocks and Raises it a MEGAWOOSH [Video]"
 date: 2009-08-20
 updated: 2009-08-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/20/microsoft-sees-msis-acrobuttocks-and-raises-it-a-megawoosh-video/
 draft: false
 ---

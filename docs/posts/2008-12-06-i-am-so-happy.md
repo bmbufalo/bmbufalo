@@ -2,8 +2,6 @@
 title: "I am so happy"
 date: 2008-12-06
 updated: 2008-12-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/06/i-am-so-happy/
 draft: false
 ---

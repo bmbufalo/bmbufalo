@@ -2,8 +2,6 @@
 title: "Lunch date with my bestie!"
 date: 2021-06-29
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/06/29/lunch-date-with-my-bestie/
 draft: false
 ---

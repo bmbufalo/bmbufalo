@@ -2,8 +2,6 @@
 title: "Olark Is A Dead Simple Chat Widget For Site Owners"
 date: 2009-08-19
 updated: 2009-08-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/19/olark-is-a-dead-simple-chat-widget-for-site-owners/
 draft: false
 ---

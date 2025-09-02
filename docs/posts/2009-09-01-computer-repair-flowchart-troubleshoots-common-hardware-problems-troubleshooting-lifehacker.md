@@ -2,8 +2,6 @@
 title: "Computer Repair Flowchart Troubleshoots Common Hardware Problems - Troubleshooting - Lifehacker"
 date: 2009-09-01
 updated: 2009-09-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/01/computer-repair-flowchart-troubleshoots-common-hardware-problems-troubleshooting-lifehacker/
 draft: false
 ---

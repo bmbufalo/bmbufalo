@@ -2,8 +2,6 @@
 title: "What I Will be Doing This Weekend"
 date: 2008-05-03
 updated: 2008-05-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/03/what-i-will-be-doing-this-weekend/
 draft: false
 ---

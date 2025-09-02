@@ -2,8 +2,6 @@
 title: "Kristian came over to play"
 date: 2012-01-05
 updated: 2012-01-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/05/kristian-came-over-to-play/
 draft: false
 ---

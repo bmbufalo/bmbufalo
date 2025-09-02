@@ -2,8 +2,6 @@
 title: "Good nap, now it's play time."
 date: 2012-01-27
 updated: 2012-01-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/27/good-nap-now-its-play-time/
 draft: false
 ---

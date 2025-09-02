@@ -2,8 +2,6 @@
 title: "Hanging out"
 date: 2012-07-20
 updated: 2012-07-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/07/20/hanging-out-4/
 draft: false
 ---

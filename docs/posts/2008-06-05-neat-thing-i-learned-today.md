@@ -2,8 +2,6 @@
 title: "Neat thing I learned today"
 date: 2008-06-05
 updated: 2008-06-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/06/05/neat-thing-i-learned-today/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Trying out Twitted Feed"
 date: 2008-12-05
 updated: 2008-12-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/05/trying-out-twitted-feed/
 draft: false
 ---

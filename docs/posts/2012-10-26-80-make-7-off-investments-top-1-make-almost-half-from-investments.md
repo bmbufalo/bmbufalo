@@ -2,8 +2,6 @@
 title: "80% make .7% off investments, top 1% make almost half from investments."
 date: 2012-10-26
 updated: 2012-10-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/10/26/80-make-7-off-investments-top-1-make-almost-half/
 draft: false
 ---

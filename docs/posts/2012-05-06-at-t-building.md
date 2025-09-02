@@ -2,8 +2,6 @@
 title: "AT&T Building"
 date: 2012-05-06
 updated: 2012-05-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/06/att-building/
 draft: false
 ---

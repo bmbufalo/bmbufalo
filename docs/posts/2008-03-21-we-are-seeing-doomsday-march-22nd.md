@@ -2,8 +2,6 @@
 title: "We are seeing Doomsday March 22nd"
 date: 2008-03-21
 updated: 2008-03-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/03/21/we-are-seeing-doomsday-march-22nd/
 draft: false
 ---

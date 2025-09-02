@@ -2,8 +2,6 @@
 title: "Listening to Friday by Rebecca Black"
 date: 2013-02-22
 updated: 2013-02-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/02/22/listening-to-friday-by-rebecca-black/
 draft: false
 ---

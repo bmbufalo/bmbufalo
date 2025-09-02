@@ -2,8 +2,6 @@
 title: "Does Disney know about this?"
 date: 2012-03-18
 updated: 2012-03-18
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/18/does-disney-know-about-this-2/
 draft: false
 ---

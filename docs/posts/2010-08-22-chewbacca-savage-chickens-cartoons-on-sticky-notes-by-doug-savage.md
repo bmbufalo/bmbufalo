@@ -2,8 +2,6 @@
 title: "Chewbacca : Savage Chickens – Cartoons on Sticky Notes by Doug Savage"
 date: 2010-08-22
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/22/chewbacca-savage-chickens-cartoons-on-sticky-notes-by-doug-savage-2/
 draft: false
 ---

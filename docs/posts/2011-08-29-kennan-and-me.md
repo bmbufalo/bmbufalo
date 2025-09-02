@@ -2,8 +2,6 @@
 title: "Kennan and me"
 date: 2011-08-29
 updated: 2011-08-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/08/29/kennan-and-me/
 draft: false
 ---

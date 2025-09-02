@@ -2,8 +2,6 @@
 title: "Today Forever"
 date: 2008-09-12
 updated: 2008-09-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/09/12/today-forever/
 draft: false
 ---

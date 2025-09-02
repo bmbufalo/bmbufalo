@@ -2,8 +2,6 @@
 title: "Find all of your updates here"
 date: 2008-07-01
 updated: 2008-07-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/01/find-all-of-your-updates-here/
 draft: false
 ---

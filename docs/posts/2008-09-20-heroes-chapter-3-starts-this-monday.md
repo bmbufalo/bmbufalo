@@ -2,8 +2,6 @@
 title: "Heroes Chapter 3 starts this Monday"
 date: 2008-09-20
 updated: 2008-09-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/09/20/heroes-chapter-3-starts-this-monday/
 draft: false
 ---

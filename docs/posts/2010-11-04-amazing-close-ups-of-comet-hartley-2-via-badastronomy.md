@@ -2,8 +2,6 @@
 title: "Amazing close-ups of comet Hartley 2! via @BadAstronomy"
 date: 2010-11-04
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/04/amazing-close-ups-of-comet-hartley-2-via-badastronomy-2/
 draft: false
 ---

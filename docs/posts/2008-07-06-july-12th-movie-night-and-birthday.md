@@ -2,8 +2,6 @@
 title: "July 12th Movie Night and Birthday"
 date: 2008-07-06
 updated: 2008-07-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/06/july-12th-movie-night-and-birthday/
 draft: false
 ---

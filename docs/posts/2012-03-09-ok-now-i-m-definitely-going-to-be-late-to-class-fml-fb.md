@@ -2,8 +2,6 @@
 title: "Ok now I'm definitely going to be late to class! #fml #fb"
 date: 2012-03-09
 updated: 2012-03-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/09/ok-now-im-definitely-going-to-be-late-to-class-fml-fb/
 draft: false
 ---

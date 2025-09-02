@@ -2,8 +2,6 @@
 title: "He loves Sweet Peas. Not something he learned from his parents."
 date: 2011-12-21
 updated: 2011-12-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/12/21/he-loves-sweet-peas-not-something-he-learned-from-his-parents/
 draft: false
 ---

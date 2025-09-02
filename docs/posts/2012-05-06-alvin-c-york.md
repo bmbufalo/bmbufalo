@@ -2,8 +2,6 @@
 title: "Alvin C. York"
 date: 2012-05-06
 updated: 2012-05-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/06/alvin-c-york/
 draft: false
 ---

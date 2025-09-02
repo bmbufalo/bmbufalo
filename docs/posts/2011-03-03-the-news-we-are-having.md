@@ -2,8 +2,6 @@
 title: "The News!!!!! We are having..."
 date: 2011-03-03
 updated: 2011-03-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/03/03/the-news-we-are-having/
 draft: false
 ---

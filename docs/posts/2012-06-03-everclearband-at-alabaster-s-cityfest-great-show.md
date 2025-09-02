@@ -2,8 +2,6 @@
 title: "@EverclearBand at Alabaster's CityFest. Great show!"
 date: 2012-06-03
 updated: 2012-06-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/03/everclearband-at-alabasters-cityfest-great-show/
 draft: false
 ---

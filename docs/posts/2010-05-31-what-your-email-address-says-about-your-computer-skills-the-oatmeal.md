@@ -2,8 +2,6 @@
 title: "What your email address says about your computer skills - The Oatmeal"
 date: 2010-05-31
 updated: 2010-05-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/05/31/what-your-email-address-says-about-your-computer-skills-the-oatmeal/
 draft: false
 ---

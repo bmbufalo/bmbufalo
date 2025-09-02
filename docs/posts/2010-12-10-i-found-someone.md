@@ -2,8 +2,6 @@
 title: "I found someone."
 date: 2010-12-10
 updated: 2010-12-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/10/i-found-someone/
 draft: false
 ---

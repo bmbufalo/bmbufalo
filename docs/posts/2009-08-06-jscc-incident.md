@@ -2,8 +2,6 @@
 title: "JSCC Incident"
 date: 2009-08-06
 updated: 2009-08-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/06/jscc-incident/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Rally squirrel time! Tonight's going to be great!"
 date: 2011-10-28
 updated: 2011-10-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/10/28/rally-squirrel-time-tonights-going-to-be-great/
 draft: false
 ---

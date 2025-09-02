@@ -2,8 +2,6 @@
 title: "We miss you too @john_a_adams"
 date: 2012-05-02
 updated: 2012-05-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/02/we-miss-you-too-john_a_adams/
 draft: false
 ---

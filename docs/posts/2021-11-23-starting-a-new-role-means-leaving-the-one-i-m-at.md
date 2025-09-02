@@ -2,8 +2,6 @@
 title: "Starting a new role means leaving the one I'm at..."
 date: 2021-11-23
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/11/23/starting-a-new-role-means-leaving-the-one-im-at/
 draft: false
 ---

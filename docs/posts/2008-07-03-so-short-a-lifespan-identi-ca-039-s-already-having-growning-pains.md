@@ -2,8 +2,6 @@
 title: "So short a lifespan...Identi.ca&#039;s already having growning pains"
 date: 2008-07-03
 updated: 2008-07-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/03/so-short-a-lifespan-identi-cas-already-having-growning-pains/
 draft: false
 ---

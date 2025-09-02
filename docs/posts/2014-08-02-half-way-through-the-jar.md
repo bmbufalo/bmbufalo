@@ -2,8 +2,6 @@
 title: "Half way through the jar"
 date: 2014-08-02
 updated: 2014-08-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/08/02/half-way-through-the-jar/
 draft: false
 ---

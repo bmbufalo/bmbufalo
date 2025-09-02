@@ -2,8 +2,6 @@
 title: "YES WE CAN!  - NEW MUSIC VIDEO"
 date: 2008-11-01
 updated: 2008-11-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/11/01/yes-we-can-new-music-video/
 draft: false
 ---

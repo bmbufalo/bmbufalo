@@ -2,8 +2,6 @@
 title: "Superhero Movie (2008) Trailer"
 date: 2008-04-01
 updated: 2008-04-01
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/01/superhero-movie-2008-trailer/
 draft: false
 ---

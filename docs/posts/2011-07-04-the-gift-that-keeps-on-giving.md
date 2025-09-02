@@ -2,8 +2,6 @@
 title: "The gift that keeps on giving!"
 date: 2011-07-04
 updated: 2011-07-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/04/the-gift-that-keeps-on-giving/
 draft: false
 ---

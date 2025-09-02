@@ -2,8 +2,6 @@
 title: "Watching A Good Day To Die Hard"
 date: 2013-02-24
 updated: 2013-02-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/02/24/watching-a-good-day-to-die-hard/
 draft: false
 ---

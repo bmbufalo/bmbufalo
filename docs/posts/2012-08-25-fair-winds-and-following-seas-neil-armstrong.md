@@ -2,8 +2,6 @@
 title: "Fair winds and following seas, Neil Armstrong"
 date: 2012-08-25
 updated: 2012-08-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/08/25/fair-winds-and-following-seas-neil-armstrong/
 draft: false
 ---

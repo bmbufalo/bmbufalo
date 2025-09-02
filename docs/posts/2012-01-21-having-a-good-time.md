@@ -2,8 +2,6 @@
 title: "Having a good time."
 date: 2012-01-21
 updated: 2012-01-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/21/having-a-good-time/
 draft: false
 ---

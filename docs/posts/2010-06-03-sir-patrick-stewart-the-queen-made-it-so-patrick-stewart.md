@@ -2,8 +2,6 @@
 title: "Sir Patrick Stewart? The Queen made it so [Patrick Stewart]"
 date: 2010-06-03
 updated: 2010-06-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/03/sir-patrick-stewart-the-queen-made-it-so-patrick-stewart-2/
 draft: false
 ---

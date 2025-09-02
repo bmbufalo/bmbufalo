@@ -2,8 +2,6 @@
 title: "Rain is coming down hard here in Hoover! #alwx #fb"
 date: 2012-03-03
 updated: 2012-03-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/03/03/rain-is-coming-down-hard-here-in-hoover-alwx-fb/
 draft: false
 ---

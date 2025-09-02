@@ -2,8 +2,6 @@
 title: "Napping hard"
 date: 2012-01-22
 updated: 2012-01-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/22/napping-hard/
 draft: false
 ---

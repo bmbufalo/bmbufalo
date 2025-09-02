@@ -2,8 +2,6 @@
 title: "Dad found an ancient treasure!"
 date: 2021-08-14
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/08/14/dad-found-an-ancient-treasure/
 draft: false
 ---

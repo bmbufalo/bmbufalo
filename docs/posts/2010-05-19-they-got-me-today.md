@@ -2,8 +2,6 @@
 title: "They got me today!"
 date: 2010-05-19
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/05/19/they-got-me-today/
 draft: false
 ---

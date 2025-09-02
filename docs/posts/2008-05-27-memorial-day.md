@@ -2,8 +2,6 @@
 title: "Memorial Day"
 date: 2008-05-27
 updated: 2008-05-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/27/memorial-day/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Siri is so deep, who would have thought!? @siri"
 date: 2010-12-27
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/27/siri-is-so-deep-who-would-have-thought-siri/
 draft: false
 ---

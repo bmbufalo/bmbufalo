@@ -2,8 +2,6 @@
 title: "For my homie, @Rxdrummer"
 date: 2012-06-25
 updated: 2012-06-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/06/25/for-my-homie-rxdrummer-2/
 draft: false
 ---

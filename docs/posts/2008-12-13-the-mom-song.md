@@ -2,8 +2,6 @@
 title: "The Mom Song"
 date: 2008-12-13
 updated: 2008-12-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/13/the-mom-song/
 draft: false
 ---

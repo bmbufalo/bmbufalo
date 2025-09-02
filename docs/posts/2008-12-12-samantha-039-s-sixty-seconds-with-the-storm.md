@@ -2,8 +2,6 @@
 title: "Samantha&#039;s sixty seconds with the Storm"
 date: 2008-12-12
 updated: 2008-12-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/12/12/samanthas-sixty-seconds-with-the-storm/
 draft: false
 ---

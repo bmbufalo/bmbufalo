@@ -2,8 +2,6 @@
 title: "Convert MP3&#039;s to WMA&#039;s on a Mac For Free"
 date: 2008-07-06
 updated: 2008-07-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/06/convert-mp3s-to-wmas-on-a-mac-for-free/
 draft: false
 ---

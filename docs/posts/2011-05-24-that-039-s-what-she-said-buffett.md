@@ -2,8 +2,6 @@
 title: "That&#039;s what she said. #Buffett"
 date: 2011-05-24
 updated: 2011-05-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/05/24/thats-what-she-said-buffett/
 draft: false
 ---

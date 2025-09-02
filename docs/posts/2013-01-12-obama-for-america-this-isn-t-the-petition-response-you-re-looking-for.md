@@ -2,8 +2,6 @@
 title: "Obama for America: This Isn't the Petition Response You're Looking For"
 date: 2013-01-12
 updated: 2013-01-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/01/12/obama-for-america-this-isnt-the-petition-response/
 draft: false
 ---

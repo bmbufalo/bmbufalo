@@ -2,8 +2,6 @@
 title: "Gulf Oil Disaster &quot;Looks Very Scary&quot;, Says Astronaut - Photos - Gizmodo"
 date: 2010-05-20
 updated: 2010-05-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/05/20/gulf-oil-disaster-looks-very-scary-says-astronaut-photos-gizmodo/
 draft: false
 ---

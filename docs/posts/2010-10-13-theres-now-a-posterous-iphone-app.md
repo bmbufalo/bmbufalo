@@ -2,8 +2,6 @@
 title: "Theres now a Posterous iPhone App!"
 date: 2010-10-13
 updated: 2010-10-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/13/theres-now-a-posterous-iphone-app-2/
 draft: false
 ---

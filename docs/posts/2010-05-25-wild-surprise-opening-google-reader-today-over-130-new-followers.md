@@ -2,8 +2,6 @@
 title: "Wild surprise opening Google Reader today! Over 130 new followers!"
 date: 2010-05-25
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/05/25/wild-surprise-opening-google-reader-today-over-130-new-followers-2/
 draft: false
 ---

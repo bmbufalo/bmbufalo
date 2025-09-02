@@ -2,8 +2,6 @@
 title: "I just wanted to thank beer for this wonderful evening. You&#039;ve been great! Good night."
 date: 2010-11-05
 updated: 2010-11-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/05/i-just-wanted-to-thank-beer-for-this-wonderful-evening-youve-been-great-good-night/
 draft: false
 ---

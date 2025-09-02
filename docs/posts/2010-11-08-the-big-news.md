@@ -2,8 +2,6 @@
 title: "THE BIG NEWS!"
 date: 2010-11-08
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/08/the-big-news-2/
 draft: false
 ---

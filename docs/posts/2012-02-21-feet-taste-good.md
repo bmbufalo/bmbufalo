@@ -2,8 +2,6 @@
 title: "Feet taste good"
 date: 2012-02-21
 updated: 2012-02-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/21/feet-taste-good/
 draft: false
 ---

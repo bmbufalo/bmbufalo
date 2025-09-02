@@ -2,8 +2,6 @@
 title: "I may not be the first but definitely the most astonished..."
 date: 2008-07-02
 updated: 2008-07-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/02/i-may-not-be-the-first-but-definitely-the-most-astonished/
 draft: false
 ---

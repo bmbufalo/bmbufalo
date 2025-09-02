@@ -2,8 +2,6 @@
 title: "Someone is hiding!"
 date: 2011-07-11
 updated: 2011-07-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/07/11/someone-is-hiding/
 draft: false
 ---

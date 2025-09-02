@@ -2,8 +2,6 @@
 title: "At Chipotle Mexican Grill"
 date: 2013-04-16
 updated: 2013-04-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/04/16/at-chipotle-mexican-grill/
 draft: false
 ---

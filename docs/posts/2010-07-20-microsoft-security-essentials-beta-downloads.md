@@ -2,8 +2,6 @@
 title: "Microsoft Security Essentials Beta Downloads"
 date: 2010-07-20
 updated: 2010-07-20
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/20/microsoft-security-essentials-beta-downloads/
 draft: false
 ---

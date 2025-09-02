@@ -2,8 +2,6 @@
 title: "Spitzer Telescope Captures Images of Forming Planet – Neatorama"
 date: 2009-09-25
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/25/spitzer-telescope-captures-images-of-forming-planet-neatorama/
 draft: false
 ---

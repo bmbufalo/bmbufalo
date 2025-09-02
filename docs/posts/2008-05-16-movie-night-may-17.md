@@ -2,8 +2,6 @@
 title: "Movie Night May 17"
 date: 2008-05-16
 updated: 2008-05-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/16/movie-night-may-17/
 draft: false
 ---

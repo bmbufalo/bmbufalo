@@ -2,8 +2,6 @@
 title: "OK I&#039;ve stopped bleeding!"
 date: 2009-10-17
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/17/ok-ive-stopped-bleeding-2/
 draft: false
 ---

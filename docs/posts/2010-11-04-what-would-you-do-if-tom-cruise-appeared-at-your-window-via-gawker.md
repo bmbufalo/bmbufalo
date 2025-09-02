@@ -2,8 +2,6 @@
 title: "What Would You Do If Tom Cruise Appeared at Your Window? via @gawker"
 date: 2010-11-04
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/04/what-would-you-do-if-tom-cruise-appeared-at-your-window-via-gawker/
 draft: false
 ---

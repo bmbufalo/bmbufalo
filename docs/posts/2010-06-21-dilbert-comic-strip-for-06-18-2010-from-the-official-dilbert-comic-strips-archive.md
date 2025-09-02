@@ -2,8 +2,6 @@
 title: "Dilbert comic strip for 06/18/2010 from the official Dilbert comic strips archive."
 date: 2010-06-21
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/21/dilbert-comic-strip-for-06182010-from-the-official-dilbert-comic-strips-archive/
 draft: false
 ---

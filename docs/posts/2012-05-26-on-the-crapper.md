@@ -2,8 +2,6 @@
 title: "On the crapper."
 date: 2012-05-26
 updated: 2012-05-26
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/05/26/on-the-crapper/
 draft: false
 ---

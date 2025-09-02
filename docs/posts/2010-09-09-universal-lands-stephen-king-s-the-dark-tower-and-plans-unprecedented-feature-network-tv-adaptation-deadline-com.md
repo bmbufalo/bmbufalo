@@ -2,8 +2,6 @@
 title: "Universal Lands Stephen King’s ‘The Dark Tower’ And Plans Unprecedented Feature/Network TV Adaptation – Deadline.com"
 date: 2010-09-09
 updated: 2010-09-09
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/09/09/universal-lands-stephen-kings-the-dark-tower-and-plans-unprecedented-featurenetwork-tv-adaptation-deadline-com/
 draft: false
 ---

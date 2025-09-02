@@ -2,8 +2,6 @@
 title: "Managing Your Finances"
 date: 2008-10-23
 updated: 2008-10-23
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/10/23/managing-your-finances/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "At Lemak Sports Medicine"
 date: 2013-04-24
 updated: 2013-04-24
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/04/24/at-lemak-sports-medicine/
 draft: false
 ---

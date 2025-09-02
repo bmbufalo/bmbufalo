@@ -2,8 +2,6 @@
 title: "Homemade Spacecraft on Vimeo"
 date: 2010-10-13
 updated: 2010-10-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/13/homemade-spacecraft-on-vimeo-2/
 draft: false
 ---

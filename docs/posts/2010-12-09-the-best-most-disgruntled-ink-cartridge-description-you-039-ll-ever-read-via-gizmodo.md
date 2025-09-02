@@ -2,8 +2,6 @@
 title: "The Best, Most Disgruntled Ink Cartridge Description You&#039;ll Ever Read via @gizmodo"
 date: 2010-12-09
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/12/09/the-best-most-disgruntled-ink-cartridge-description-youll-ever-read-via-gizmodo/
 draft: false
 ---

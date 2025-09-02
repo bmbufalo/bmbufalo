@@ -2,8 +2,6 @@
 title: "New Patch 1.7 for Call of Duty 4"
 date: 2008-07-02
 updated: 2008-07-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/02/new-patch-1-7-for-call-of-duty-4/
 draft: false
 ---

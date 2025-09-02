@@ -2,8 +2,6 @@
 title: "The World’s Youngest Practical Shooter - Neatorama"
 date: 2009-08-13
 updated: 2009-08-13
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/13/the-worlds-youngest-practical-shooter-neatorama/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "How to Fix Three of the Most Common System Problems Without Restoring a Backup - Lifehacker"
 date: 2011-06-10
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/06/10/how-to-fix-three-of-the-most-common-system-problems-without-restoring-a-backup-lifehacker/
 draft: false
 ---

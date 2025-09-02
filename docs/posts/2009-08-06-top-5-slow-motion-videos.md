@@ -2,8 +2,6 @@
 title: "Top 5 Slow-Motion Videos"
 date: 2009-08-06
 updated: 2009-08-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/06/top-5-slow-motion-videos/
 draft: false
 ---

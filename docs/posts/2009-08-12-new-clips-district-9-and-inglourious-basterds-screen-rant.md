@@ -2,8 +2,6 @@
 title: "New Clips: District 9 And Inglourious Basterds - Screen Rant"
 date: 2009-08-12
 updated: 2009-08-12
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/12/new-clips-district-9-and-inglourious-basterds-screen-rant/
 draft: false
 ---

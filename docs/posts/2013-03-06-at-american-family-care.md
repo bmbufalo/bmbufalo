@@ -2,8 +2,6 @@
 title: "At American Family Care"
 date: 2013-03-06
 updated: 2013-03-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/03/06/at-american-family-care-3/
 draft: false
 ---

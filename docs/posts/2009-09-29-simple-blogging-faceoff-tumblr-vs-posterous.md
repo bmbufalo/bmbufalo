@@ -2,8 +2,6 @@
 title: "Simple Blogging Faceoff: Tumblr vs. Posterous"
 date: 2009-09-29
 updated: 2009-09-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/29/simple-blogging-faceoff-tumblr-vs-posterous-2/
 draft: false
 ---

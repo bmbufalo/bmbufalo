@@ -2,8 +2,6 @@
 title: "I Met The Walrus"
 date: 2008-07-06
 updated: 2008-07-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/06/i-met-the-walrus/
 draft: false
 ---

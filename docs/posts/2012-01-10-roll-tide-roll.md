@@ -2,8 +2,6 @@
 title: "Roll tide roll!"
 date: 2012-01-10
 updated: 2012-01-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/10/roll-tide-roll/
 draft: false
 ---

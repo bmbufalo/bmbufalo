@@ -2,8 +2,6 @@
 title: "At Brian & Sam's"
 date: 2013-03-02
 updated: 2013-03-02
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2013/03/02/at-brian-sams-2/
 draft: false
 ---

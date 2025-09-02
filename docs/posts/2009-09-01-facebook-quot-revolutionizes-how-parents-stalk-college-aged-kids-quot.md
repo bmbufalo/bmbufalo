@@ -2,8 +2,6 @@
 title: "Facebook &quot;Revolutionizes How Parents Stalk College-Aged Kids&quot;"
 date: 2009-09-01
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/01/facebook-revolutionizes-how-parents-stalk-college-aged-kids-2/
 draft: false
 ---

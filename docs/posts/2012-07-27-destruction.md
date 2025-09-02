@@ -2,8 +2,6 @@
 title: "Destruction"
 date: 2012-07-27
 updated: 2012-07-27
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/07/27/destruction-4/
 draft: false
 ---

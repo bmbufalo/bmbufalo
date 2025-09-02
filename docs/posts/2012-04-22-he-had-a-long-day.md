@@ -2,8 +2,6 @@
 title: "He had a long day."
 date: 2012-04-22
 updated: 2012-04-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/04/22/he-had-a-long-day/
 draft: false
 ---

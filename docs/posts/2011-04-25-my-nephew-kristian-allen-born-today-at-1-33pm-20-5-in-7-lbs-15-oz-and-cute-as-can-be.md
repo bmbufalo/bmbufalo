@@ -2,8 +2,6 @@
 title: "My nephew, Kristian Allen, born today at 1:33pm, 20.5 in, 7 lbs 15 oz, and cute as can be!"
 date: 2011-04-25
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/04/25/my-nephew-kristian-allen-born-today-at-133pm-20-5-in-7-lbs-15-oz-and-cute-as-can-be-2/
 draft: false
 ---

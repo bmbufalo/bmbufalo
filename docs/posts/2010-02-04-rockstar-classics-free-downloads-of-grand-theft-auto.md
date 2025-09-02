@@ -2,8 +2,6 @@
 title: "Rockstar Classics - Free Downloads of Grand Theft Auto!"
 date: 2010-02-04
 updated: 2010-02-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/02/04/rockstar-classics-free-downloads-of-grand-theft-auto/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Amazing News - Obama Refuses to be President - Virus Alert &#124; Zero / Love"
 date: 2009-01-19
 updated: 2009-01-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/01/19/amazing-news-obama-refuses-to-be-president-virus-alert-zero-love/
 draft: false
 ---

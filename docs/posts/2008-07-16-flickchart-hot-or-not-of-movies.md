@@ -2,8 +2,6 @@
 title: "Flickchart - Hot or Not of Movies"
 date: 2008-07-16
 updated: 2008-07-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/16/flickchart-hot-or-not-of-movies/
 draft: false
 ---

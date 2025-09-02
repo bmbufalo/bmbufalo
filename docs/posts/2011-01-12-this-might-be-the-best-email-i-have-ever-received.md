@@ -2,8 +2,6 @@
 title: "This might be the best email I have ever received!"
 date: 2011-01-12
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/12/this-might-be-the-best-email-i-have-ever-received/
 draft: false
 ---

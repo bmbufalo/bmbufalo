@@ -2,8 +2,6 @@
 title: "Call of Duty: Black Ops Hides Zork Easter Egg &#124; GameLife &#124; Wired.com"
 date: 2010-11-25
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/11/25/call-of-duty-black-ops-hides-zork-easter-egg-gamelife-wired-com-2/
 draft: false
 ---

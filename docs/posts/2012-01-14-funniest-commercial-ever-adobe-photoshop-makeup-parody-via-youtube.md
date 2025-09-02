@@ -2,8 +2,6 @@
 title: "Funniest Commercial Ever! Adobe Photoshop Makeup Parody - via @YouTube"
 date: 2012-01-14
 updated: 2012-01-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/14/funniest-commercial-ever-adobe-photoshop-makeup-parody-via-youtube-2/
 draft: false
 ---

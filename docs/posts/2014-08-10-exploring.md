@@ -2,8 +2,6 @@
 title: "Exploring"
 date: 2014-08-10
 updated: 2014-08-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/08/10/exploring/
 draft: false
 ---

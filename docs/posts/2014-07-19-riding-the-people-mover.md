@@ -2,8 +2,6 @@
 title: "Riding the people mover"
 date: 2014-07-19
 updated: 2014-07-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2014/07/19/riding-the-people-mover/
 draft: false
 ---

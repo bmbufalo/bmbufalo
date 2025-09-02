@@ -2,8 +2,6 @@
 title: "What does one TRILLION dollars look like?"
 date: 2009-03-11
 updated: 2009-03-11
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/03/11/what-does-one-trillion-dollars-look-like/
 draft: false
 ---

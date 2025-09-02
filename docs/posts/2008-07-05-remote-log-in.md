@@ -2,8 +2,6 @@
 title: "Remote log in"
 date: 2008-07-05
 updated: 2008-07-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/05/remote-log-in/
 draft: false
 ---

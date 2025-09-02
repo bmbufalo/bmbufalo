@@ -2,8 +2,6 @@
 title: "This Must Be the Craziest Computer Den In America"
 date: 2011-01-24
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/24/this-must-be-the-craziest-computer-den-in-america/
 draft: false
 ---

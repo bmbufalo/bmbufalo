@@ -2,8 +2,6 @@
 title: "Super Heroes vs. the Westboro Baptist Church - ComicsAlliance &#124; Comics culture, news, humor, commentary, and reviews"
 date: 2010-07-25
 updated: 2010-07-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/25/super-heroes-vs-the-westboro-baptist-church-comicsalliance-comics-culture-news-humor-commentary-and-reviews/
 draft: false
 ---

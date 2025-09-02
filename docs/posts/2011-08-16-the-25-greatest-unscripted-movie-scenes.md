@@ -2,8 +2,6 @@
 title: "The 25 Greatest Unscripted Movie Scenes"
 date: 2011-08-16
 updated: 2011-08-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/08/16/the-25-greatest-unscripted-movie-scenes/
 draft: false
 ---

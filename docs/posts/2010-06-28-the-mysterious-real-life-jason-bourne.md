@@ -2,8 +2,6 @@
 title: "The Mysterious Real-Life Jason Bourne"
 date: 2010-06-28
 updated: 2010-06-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/28/the-mysterious-real-life-jason-bourne/
 draft: false
 ---

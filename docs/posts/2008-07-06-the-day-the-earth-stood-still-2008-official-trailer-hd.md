@@ -2,8 +2,6 @@
 title: "The Day The Earth Stood Still [2008] - OFFICIAL TRAILER (HD)"
 date: 2008-07-06
 updated: 2008-07-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/06/the-day-the-earth-stood-still-2008-official-trailer-hd/
 draft: false
 ---

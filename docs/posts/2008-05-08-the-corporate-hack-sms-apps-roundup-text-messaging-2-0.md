@@ -2,8 +2,6 @@
 title: "The Corporate Hack: SMS Apps Roundup - Text Messaging 2.0"
 date: 2008-05-08
 updated: 2008-05-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/08/the-corporate-hack-sms-apps-roundup-text-messaging-2-0/
 draft: false
 ---

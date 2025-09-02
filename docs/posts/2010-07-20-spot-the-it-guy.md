@@ -2,8 +2,6 @@
 title: "Spot the IT Guy!"
 date: 2010-07-20
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/20/spot-the-it-guy/
 draft: false
 ---

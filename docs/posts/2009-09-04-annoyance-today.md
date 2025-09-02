@@ -2,8 +2,6 @@
 title: "Annoyance today"
 date: 2009-09-04
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/09/04/annoyance-today-2/
 draft: false
 ---

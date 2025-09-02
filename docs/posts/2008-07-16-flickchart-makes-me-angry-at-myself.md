@@ -2,8 +2,6 @@
 title: "Flickchart makes me angry...at myself"
 date: 2008-07-16
 updated: 2008-07-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/16/flickchart-makes-me-angry-at-myself/
 draft: false
 ---

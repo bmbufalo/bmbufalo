@@ -2,8 +2,6 @@
 title: "Check If Your Apple Device Has Been Compromised by the AntiSec Leak"
 date: 2012-09-05
 updated: 2012-09-05
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/09/05/check-if-your-apple-device-has-been-compromised-by-the/
 draft: false
 ---

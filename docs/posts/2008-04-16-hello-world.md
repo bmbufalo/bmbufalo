@@ -2,8 +2,6 @@
 title: "Hello World!"
 date: 2008-04-16
 updated: 2008-04-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/16/hello-world-2/
 draft: false
 ---

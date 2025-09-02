@@ -2,8 +2,6 @@
 title: "Whats Up On YouTube!"
 date: 2008-05-04
 updated: 2008-05-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/05/04/whats-up-on-youtube/
 draft: false
 ---

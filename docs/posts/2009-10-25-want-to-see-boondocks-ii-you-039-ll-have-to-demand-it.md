@@ -2,8 +2,6 @@
 title: "Want To See Boondocks II? You&#039;ll Have To Demand It"
 date: 2009-10-25
 updated: 2009-10-25
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/25/want-to-see-boondocks-ii-youll-have-to-demand-it/
 draft: false
 ---

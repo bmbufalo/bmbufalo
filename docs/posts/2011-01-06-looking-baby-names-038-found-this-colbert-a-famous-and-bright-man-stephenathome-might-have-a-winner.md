@@ -2,8 +2,6 @@
 title: "Looking @ baby names &#038; found this: Colbert A famous and bright man @StephenAtHome Might have a winner!"
 date: 2011-01-06
 updated: 2011-01-06
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/06/looking-baby-names-found-this-colbert-a-famous-and-bright-man-stephenathome-might-have-a-winner/
 draft: false
 ---

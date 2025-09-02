@@ -2,8 +2,6 @@
 title: "eMees is Free! &#124; whatsoniphone.com"
 date: 2009-04-10
 updated: 2009-04-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/04/10/emees-is-free-whatsoniphone-com/
 draft: false
 ---

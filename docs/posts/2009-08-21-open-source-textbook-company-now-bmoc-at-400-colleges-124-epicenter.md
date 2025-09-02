@@ -2,8 +2,6 @@
 title: "Open Source Textbook Company Now BMOC at 400 Colleges &#124; Epicenter"
 date: 2009-08-21
 updated: 2009-08-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/08/21/open-source-textbook-company-now-bmoc-at-400-colleges-epicenter/
 draft: false
 ---

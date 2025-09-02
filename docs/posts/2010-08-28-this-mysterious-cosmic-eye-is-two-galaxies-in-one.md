@@ -2,8 +2,6 @@
 title: "This mysterious cosmic eye is two galaxies in one"
 date: 2010-08-28
 updated: 2010-08-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/08/28/this-mysterious-cosmic-eye-is-two-galaxies-in-one/
 draft: false
 ---

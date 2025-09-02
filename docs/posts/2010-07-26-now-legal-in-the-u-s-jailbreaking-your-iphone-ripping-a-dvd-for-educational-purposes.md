@@ -2,8 +2,6 @@
 title: "Now legal in the U.S.: Jailbreaking your iPhone, ripping a DVD for educational purposes"
 date: 2010-07-26
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/07/26/now-legal-in-the-u-s-jailbreaking-your-iphone-ripping-a-dvd-for-educational-purposes/
 draft: false
 ---

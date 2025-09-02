@@ -2,8 +2,6 @@
 title: "Confederate Memorial Day"
 date: 2008-04-28
 updated: 2008-04-28
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/28/confederate-memorial-day/
 draft: false
 ---

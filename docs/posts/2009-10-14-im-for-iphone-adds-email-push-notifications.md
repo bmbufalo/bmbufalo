@@ -2,8 +2,6 @@
 title: "IM+ for iPhone adds email push notifications"
 date: 2009-10-14
 updated: 2009-10-14
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/10/14/im-for-iphone-adds-email-push-notifications/
 draft: false
 ---

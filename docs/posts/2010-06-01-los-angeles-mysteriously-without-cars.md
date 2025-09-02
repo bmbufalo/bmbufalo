@@ -2,8 +2,6 @@
 title: "Los Angeles, mysteriously without cars"
 date: 2010-06-01
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/01/los-angeles-mysteriously-without-cars/
 draft: false
 ---

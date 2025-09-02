@@ -2,8 +2,6 @@
 title: "Hard day of running errands"
 date: 2012-02-04
 updated: 2012-02-04
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/04/hard-day-of-running-errands-2/
 draft: false
 ---

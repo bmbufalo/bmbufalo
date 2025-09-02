@@ -2,8 +2,6 @@
 title: "PEOPLE ARE AWESOME"
 date: 2010-10-31
 updated: 2010-10-31
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/31/people-are-awesome/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Women worse at parking than men, study shows - Telegraph"
 date: 2009-12-21
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2009/12/21/women-worse-at-parking-than-men-study-shows-telegraph/
 draft: false
 ---

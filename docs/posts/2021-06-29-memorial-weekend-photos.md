@@ -2,8 +2,6 @@
 title: "Memorial Weekend Photos"
 date: 2021-06-29
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2021/06/29/memorial-weekend-photos/
 draft: false
 ---

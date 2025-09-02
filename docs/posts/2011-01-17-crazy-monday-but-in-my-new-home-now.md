@@ -2,8 +2,6 @@
 title: "Crazy Monday but in my new home now!"
 date: 2011-01-17
 updated: 2011-01-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2011/01/17/crazy-monday-but-in-my-new-home-now/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "&quot;Science Friday Radio Program Faces Funding Crisis&quot; Help Donate to keep it on-air!!"
 date: 2010-10-07
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/10/07/science-friday-radio-program-faces-funding-crisis-help-donate-to-keep-it-on-air-2/
 draft: false
 ---

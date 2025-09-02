@@ -2,8 +2,6 @@
 title: "In lock down"
 date: 2012-01-15
 updated: 2012-01-15
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/15/in-lock-down-2/
 draft: false
 ---

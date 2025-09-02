@@ -2,8 +2,6 @@
 title: "The Apple TV needs a gaming update"
 date: 2010-02-03
 updated: 2022-11-21
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/02/03/the-apple-tv-needs-a-gaming-update/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "Tired baby"
 date: 2012-02-22
 updated: 2012-02-22
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/22/tired-baby/
 draft: false
 ---

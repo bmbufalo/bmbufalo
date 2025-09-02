@@ -2,8 +2,6 @@
 title: "Date night"
 date: 2012-02-19
 updated: 2012-02-19
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/02/19/date-night/
 draft: false
 ---

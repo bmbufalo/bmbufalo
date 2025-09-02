@@ -2,8 +2,6 @@
 title: "10&#039;s of Millions of FaceTime Devices in 2010"
 date: 2010-06-10
 updated: 2010-06-10
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2010/06/10/10s-of-millions-of-facetime-devices-in-2010/
 draft: false
 ---

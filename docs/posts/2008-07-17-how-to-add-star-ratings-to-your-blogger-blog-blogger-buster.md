@@ -2,8 +2,6 @@
 title: "How To Add Star Ratings to your Blogger Blog -- Blogger Buster"
 date: 2008-07-17
 updated: 2008-07-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/17/how-to-add-star-ratings-to-your-blogger-blog-blogger-buster/
 draft: false
 ---

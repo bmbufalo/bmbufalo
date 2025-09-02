@@ -2,8 +2,6 @@
 title: "Welcome Patrick!"
 date: 2008-07-08
 updated: 2008-07-08
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/08/welcome-patrick/
 draft: false
 ---

@@ -2,8 +2,6 @@
 title: "During World War 1, a dog named Stubby was smuggled to Europe, and after saluting the Captain, was allowed to stay in the trenches"
 date: 2012-12-30
 updated: 2012-12-30
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/12/30/during-world-war-1-a-dog-named-stubby-was-smuggled-to/
 draft: false
 ---

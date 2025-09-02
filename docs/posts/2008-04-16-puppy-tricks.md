@@ -2,8 +2,6 @@
 title: "Puppy Tricks"
 date: 2008-04-16
 updated: 2008-04-16
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/16/puppy-tricks/
 draft: false
 ---

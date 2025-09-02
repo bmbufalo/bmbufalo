@@ -2,8 +2,6 @@
 title: "In the dark"
 date: 2012-01-17
 updated: 2012-01-17
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2012/01/17/in-the-dark/
 draft: false
 ---

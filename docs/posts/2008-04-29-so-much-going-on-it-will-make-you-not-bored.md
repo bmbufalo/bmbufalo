@@ -2,8 +2,6 @@
 title: "So much going on it will make you not bored!"
 date: 2008-04-29
 updated: 2008-04-29
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/04/29/so-much-going-on-it-will-make-you-not-bored/
 draft: false
 ---

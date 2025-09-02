@@ -2,8 +2,6 @@
 title: "Nothing to see here, move along"
 date: 2008-07-03
 updated: 2008-07-03
-authors:
-  - bmbufalo
 original_link: https://brian.bufalo.me/2008/07/03/nothing-to-see-here-move-along/
 draft: false
 ---
