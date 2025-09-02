@@ -1,0 +1,11 @@
+---
+title: "Where I&#039;ve Been"
+date: 2008-08-22
+updated: 2008-08-22
+authors:
+  - bmbufalo
+original_link: https://brian.bufalo.me/2008/08/22/where-ive-been/
+draft: false
+---
+<pre><code>The last couple of weeks have been an absolute blur.&amp;nbsp; I have gotten into college without spending any money (yet).&amp;nbsp; I mean that literally.&amp;nbsp; I am going to class without paying a dime of my own.&amp;nbsp; My financial aid paperwork is still in process so I am going to class waiting for the last of my information to process.&amp;nbsp; The down side to that is I have no books, no supplies, and close to no gas money to get there.&amp;nbsp; It sucks.&amp;nbsp; And I still have to pay tuition, bills and get Lucy to a vet visit soon.&amp;nbsp; So it's been stressful.&amp;nbsp; For these reason's I have not had any time to post here.&amp;nbsp; And I miss it.&amp;nbsp; I miss finding fun new things (at least to me) and telling this blank page why I like it and why you might too.&amp;nbsp; But the Man (and Mom) say's to get a good job I have to have a piece of paper stating my four years has been spent learning stuff and things.&amp;nbsp; So school comes first.&amp;nbsp; &lt;p /&gt;At least work has slowed down!&amp;nbsp; Nothing is breaking and that is a great thing!&amp;nbsp; And my personal business has picked up.&amp;nbsp; I've got two computers here I am working on now!&amp;nbsp; So there is some positive in all of this...it's just everything has been coming at once and it's a bit overwhelming.&lt;p /&gt;I have been posting to &lt;a href="http://www.twitter.com/bmbufalo"&gt;Twitter &lt;/a&gt;still so check there for my latest updates and I'll try to get back into a schedule here as soon as I can.&lt;p /&gt;&lt;br /&gt;--&lt;p /&gt;Brian&lt;br /&gt;&lt;a href="http://bmbufalo.blogspot.com/"&gt;http://bmbufalo.blogspot.com&lt;/a&gt;&lt;br /&gt;&lt;a href="http://bmbufalo.mofuse.mobi/"&gt;bmbufalo mobile&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;&lt;img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/2675399127377711436-7091931428519660622?l=bmbufalo.blogspot.com" height="1" alt="" width="1" /&gt;&lt;/div&gt;
+</code></pre>

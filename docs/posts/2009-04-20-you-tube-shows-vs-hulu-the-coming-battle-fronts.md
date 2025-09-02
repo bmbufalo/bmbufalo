@@ -1,0 +1,11 @@
+---
+title: "You Tube Shows vs. Hulu, the coming battle fronts"
+date: 2009-04-20
+updated: 2009-04-20
+authors:
+  - bmbufalo
+original_link: https://brian.bufalo.me/2009/04/20/you-tube-shows-vs-hulu-the-coming-battle-fronts/
+draft: false
+---
+<pre><code>Some simple thoughts, rough draft ideas about Google's recent You Tube &lt;a href="http://www.youtube.com/shows"&gt;shows&lt;/a&gt;.  I, for one, am very excited for this service!  I see a plethora of opportunities here.  You Tube's reach is greater than anyone else currently in this market.  If they can expand the content and get a digital library up that bests &lt;a href="http://www.hulu.com/"&gt;Hulu&lt;/a&gt;, there is a very solid chance this could be the next big thing.  You Tube has permeated to so many different platforms the possibilities are endless.  You can stream content to computers, TV's, phones and more! In all of these devices, Google has the lead.  The infrastructure is there, Google just needs to leverage it.  I have an iPhone app for You Tube.  Hulu (&lt;a href="http://venturebeat.com/2009/04/17/rumor-hulus-iphone-app-looks-sharp-due-soon/"&gt;rumors&lt;/a&gt; not withstanding) does not have one available.  And thus far the only video app out there on the iPhone that is decent is the You Tube app. &lt;a href="http://www.joost.com/"&gt; Joost &lt;/a&gt;has an iPhone offering that is confusing and not well rounded.  It also lacks the content that you can find on Hulu.  Again, You Tube has the advantage on all kinds of other devices and to not leverage them would be a serious stumble.&lt;p /&gt;Either way I look forward to being able to watch my TV and movies where and when I want without the nuisance of sitting at home.  Any thoughts? Add your input in the comments.&lt;p /&gt;&lt;br /&gt;--&lt;p /&gt;Brian&lt;br /&gt;&lt;a href="http://bmbufalo.blogspot.com/"&gt;http://bmbufalo.blogspot.com&lt;/a&gt;&lt;br /&gt;&lt;a href="http://bmbufalo.mofuse.mobi/"&gt;bmbufalo mobile&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;&lt;img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/2675399127377711436-1104863414778364256?l=bmbufalo.blogspot.com" height="1" alt="" width="1" /&gt;&lt;/div&gt;
+</code></pre>

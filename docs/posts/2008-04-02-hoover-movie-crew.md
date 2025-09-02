@@ -1,0 +1,11 @@
+---
+title: "Hoover Movie Crew"
+date: 2008-04-02
+updated: 2008-04-02
+authors:
+  - bmbufalo
+original_link: https://brian.bufalo.me/2008/04/02/hoover-movie-crew/
+draft: false
+---
+<pre><code>[UPDATE:] I am officially moving Hoover Movie Crew to the dead list.  The active interest isn't there, either for myself or those participating.  I will leave all the posts and continue talking about movies but the meet up are, as of now, over.  As anything else this can change if anyone has any interest in trying to revive HMC.&lt;p /&gt;Brian Bufalo 12/23/2008&lt;p /&gt;[googleapps domain="www" dir="calendar/embed" query="showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=eg1cu5h55fvuejubomv6ikstr4%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FChicago" width="450" height="400" /]The Hoover Movie Crew meets every other Saturday to see the latest Hollywood premiers.Click here for the latest &lt;a href="http://bmbufalo.blogspot.com/search/label/hoover%20movie%20crew"&gt;Hoover Movie Crew&lt;/a&gt; posts.We meet at the &lt;a href="http://maps.google.com/maps?q=4450+Creekside+Ave%2C+Birmingham%2C+A.L.+35244%2C+USA&amp;ie=UTF8&amp;ll=33.373545%2C-86.815681&amp;spn=0.01025%2C0.014591&amp;z=16&amp;iwloc=addr" target="_blank" rel="noopener"&gt;Patton Creek Rave Theater&lt;/a&gt; about half an hour prior to the start of the show in the Patton Creek Shopping Center.   Check back here for show times.  If you come early, though, look for us at the &lt;a href="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;q=180+Main+St.%2C+Birmingham%2C+AL&amp;sll=33.375427%2C-86.814802&amp;sspn=0.01025%2C0.014591&amp;ie=UTF8&amp;ll=33.374423%2C-86.814802&amp;spn=0.01025%2C0.014591&amp;z=16&amp;iwloc=addr" target="_blank" rel="noopener"&gt;Cajun Steamer&lt;/a&gt; for drinks.Click on any of the links above for a map.&lt;a href="mailto:bmbufalo+blog@gmail.com"&gt;Click here&lt;/a&gt; to send me an email for any more information or if it will be your first time coming out.  You can also click on the Call Me button to talk to me in person!&lt;div class="blogger-post-footer"&gt;&lt;img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/2675399127377711436-7700899932929799001?l=bmbufalo.blogspot.com" height="1" alt="" width="1" /&gt;&lt;/div&gt;
+</code></pre>

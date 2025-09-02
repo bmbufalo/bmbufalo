@@ -1,0 +1,11 @@
+---
+title: "Brian&#039;s Latest - Now Mobile by Mofuse"
+date: 2008-07-16
+updated: 2008-07-16
+authors:
+  - bmbufalo
+original_link: https://brian.bufalo.me/2008/07/16/brians-latest-now-mobile-by-mofuse/
+draft: false
+---
+<pre><code>I thought it might be too good to be true but I tried it out and it is not just good, but great!  &lt;a href="http://www.mofuse.com/" target="_blank" rel="noopener"&gt;Mofuse&lt;/a&gt; dropped the fee for the Pro version of their hosting site and is offering mobile website hosting for everyone for free!  Not only that but all you have to do is punch in your web address or RSS feed address and presto, you get your own website for your iPhone or other mobile web capable device. &lt;a href="http://bmbufalo.mofuse.mobi/" target="_blank" rel="noopener"&gt;Brian's Latest Mobile&lt;/a&gt; is my mobile site which I am still in the process of fixing up.  Mofuse imports your feeds and, in the case of using a blog, displays the top feeds as your content.  You can also customize the content, add HTML, change the design and colors, upload logos, and more!&lt;p /&gt;Mofuse offers the ability to use your own custom domain name so, for example, visiting http://m.braincase.biz might take you to the mobile version of the BrainCase website (it doesn't...&lt;span style="font-style:italic;"&gt;yet&lt;/span&gt;) as well as tracking and monitoring, and the ability to monetize your sites mobile web experience.&lt;p /&gt;I am going to keep messing with it for my personal blog and see about rolling it out for the company site if it is promising.  Until then, check it out...I think this is going to be huge!&lt;p /&gt;Heads up from &lt;a href="http://mashable.com/2008/07/14/create-mobile-web-site/" target="_blank" rel="noopener"&gt;Mashable&lt;/a&gt;.&lt;p /&gt;--&lt;p /&gt;Brian&lt;br /&gt;&lt;a href="http://bmbufalo.blogspot.com/"&gt;http://bmbufalo.blogspot.com&lt;/a&gt;&lt;div class="blogger-post-footer"&gt;&lt;img class="posterous_download_image" src="https://blogger.googleusercontent.com/tracker/2675399127377711436-6952810334768560846?l=bmbufalo.blogspot.com" height="1" alt="" width="1" /&gt;&lt;/div&gt;
+</code></pre>

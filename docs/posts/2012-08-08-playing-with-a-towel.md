@@ -1,0 +1,10 @@
+---
+title: "Playing with a towel"
+date: 2012-08-08
+updated: 2012-08-08
+authors:
+  - bmbufalo
+original_link: https://brian.bufalo.me/2012/08/08/playing-with-a-towel/
+draft: false
+---
+<br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192516.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192516.jpg" alt="20120807-192516.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192525.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192525.jpg" alt="20120807-192525.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192533.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192533.jpg" alt="20120807-192533.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192541.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192541.jpg" alt="20120807-192541.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192553.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192553.jpg" alt="20120807-192553.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192559.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192559.jpg" alt="20120807-192559.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192605.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192605.jpg" alt="20120807-192605.jpg" class="alignnone size-full" /></a><br /><br /><a href="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192611.jpg"><img src="https://brian.bufalo.me/wp-content/uploads/2012/08/20120807-192611.jpg" alt="20120807-192611.jpg" class="alignnone size-full" /></a>
