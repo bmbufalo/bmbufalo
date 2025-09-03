@@ -46,6 +46,11 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+extra_javascript:
+  - javascripts/extra.js
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - blog:
