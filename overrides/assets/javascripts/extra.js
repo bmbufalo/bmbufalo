@@ -1,3 +1,4 @@
+// Auto light/dark mode
 document.addEventListener("DOMContentLoaded", function () {
   const iframe = document.querySelector("#cusdis_thread iframe");
   const html = document.documentElement;
@@ -24,3 +25,13 @@ document.addEventListener("DOMContentLoaded", function () {
   const observer = new MutationObserver(applyTheme);
   observer.observe(html, { attributes: true, attributeFilter: ["data-md-color-scheme"] });
 });
+// Fix comments to appear on initial load of the page
+function initCusdis() {
+  const el = document.getElementById("cusdis_thread");
+  if (el && window.CUSDIS) {
+    window.CUSDIS.renderTo(el);
+  }
+}
+
+document.addEventListener("DOMContentLoaded", initCusdis);
+document.addEventListener("DOMContentSwitch", initCusdis);
