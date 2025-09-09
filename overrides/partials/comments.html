@@ -1,27 +1,21 @@
-{% extends "base.html" %}
+{# Disqus integration for MkDocs Material #}
+{% if page and page.url.startswith("posts/") and not page.meta.comments == false %}
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = "{{ page.canonical_url }}";
+      this.page.identifier = "{{ page.file.src_path }}";
+    };
 
-{% block content %}
-  {{ super() }}
-
-  {# Show Disqus only on blog posts under "posts/" unless explicitly disabled #}
-  {% if page and page.url.startswith("posts/") and not page.meta.comments == false %}
-    <div id="disqus_thread"></div>
-    <script>
-      var disqus_config = function () {
-        this.page.url = "{{ page.canonical_url }}";
-        this.page.identifier = "{{ page.file.src_path }}";
-      };
-
-      (function() {
-        var d = document, s = d.createElement('script');
-        s.src = 'https://brian-bufalo.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-      })();
-    </script>
-    <noscript>
-      Please enable JavaScript to view the
-      <a href="https://disqus.com/" rel="nofollow">comments powered by Disqus.</a>
-    </noscript>
-  {% endif %}
-{% endblock %}
+    (function() {
+      var d = document, s = d.createElement('script');
+      s.src = 'https://brian.bufalo.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/" rel="nofollow">comments powered by Disqus.</a>
+  </noscript>
+{% endif %}
