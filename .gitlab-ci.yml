@@ -31,7 +31,7 @@ pages:
 announce:
   stage: announce
   before_script:
-    - pip install mastodon.py python-frontmatter
+    - pip install -r requirements.txt
     - pip install --upgrade pip
   script:
     # Restore cached state file
