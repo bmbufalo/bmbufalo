@@ -4,6 +4,7 @@ site_dir: public
 
 theme: 
   name: material
+  custom_dir: overrides
   icon:
     logo: fontawesome/solid/microchip
 

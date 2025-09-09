@@ -1,0 +1,10 @@
+{% if page.meta.comments is not defined or page.meta.comments != false %}
+<div class="blog-comments">
+  <h3>Join the discussion</h3>
+  <ul>
+    {% if page.meta.mastodon_url %}
+    <li><a href="{{ page.meta.mastodon_url }}" target="_blank">Comment on Mastodon</a></li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
