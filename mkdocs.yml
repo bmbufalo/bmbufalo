@@ -46,12 +46,6 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-extra_javascript:
-  - javascripts/extra.js
-
-extra_css:
-  - stylesheets/extra.css
-
 plugins:
   - blog:
       blog_dir: .
@@ -93,7 +87,7 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bmbufalo/
       name: bmbufalo on Instagram
-  # disqus:
+  disqus: brian-bufalo
   # cusdis:
   #   host: https://cusdis.com
   #   app_id: dda57283-f21e-4fd9-ac7b-9eb6a3400bbf
