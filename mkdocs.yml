@@ -88,11 +88,11 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bmbufalo/
       name: bmbufalo on Instagram
-  disqus:
-  cusdis:
-    host: https://cusdis.com
-    app_id: dda57283-f21e-4fd9-ac7b-9eb6a3400bbf
-    lang:
+  # disqus:
+  # cusdis:
+  #   host: https://cusdis.com
+  #   app_id: dda57283-f21e-4fd9-ac7b-9eb6a3400bbf
+  #   lang:
 
 # <div id="cusdis_thread"
 #   data-host="https://cusdis.com"
