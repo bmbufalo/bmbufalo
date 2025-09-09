@@ -1,21 +1,11 @@
-{# Disqus integration for MkDocs Material #}
-{% if page and page.url.startswith("posts/") and not page.meta.comments == false %}
-  <div id="disqus_thread"></div>
-  <script>
-    var disqus_config = function () {
-      this.page.url = "{{ page.canonical_url }}";
-      this.page.identifier = "{{ page.file.src_path }}";
-    };
-
-    (function() {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://brian.bufalo.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
-    })();
-  </script>
-  <noscript>
-    Please enable JavaScript to view the
-    <a href="https://disqus.com/" rel="nofollow">comments powered by Disqus.</a>
-  </noscript>
-{% endif %}
+<script id="beblob-script"
+        src="{% if config.extra.beblob.dev_mode %}/js/beblob.js{% else %}https://unpkg.com/beblob@{{ config.extra.beblob.version }}/dist/beblob.js{% endif %}"
+        data-client-id="{{ config.extra.beblob.client_id }}"
+        data-redirect-uri="https://brian.bufalo.me"
+        data-project-name="{{ config.extra.beblob.project_name }}"
+        data-issue-mapping-strategy="{{ config.extra.beblob.issue_mapping_strategy }}"
+        data-dev-mode="{{ config.extra.beblob.dev_mode | lower }}"
+        data-beblob-version="{{ config.extra.beblob.version }}"
+        data-theme="dark"
+        defer>
+</script>

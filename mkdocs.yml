@@ -87,4 +87,12 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bmbufalo/
       name: bmbufalo on Instagram
-  # disqus: brian-bufalo
+  beblob:
+    enabled: true
+    client_id: "e60539d0fe4731d3ffcc9cbe5feb499e0150a14711a0a2a4bf59eca020418bc1"
+    redirect_uri: "https://brian.bufalo.me"
+    project_name: "bmbufalo"
+    issue_mapping_strategy: "pageTitle"
+    version: "1.6.0"
+    theme: "auto"
+    dev_mode: false
