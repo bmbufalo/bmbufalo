@@ -2,21 +2,17 @@
 <div class="blog-comments">
   <h3>Join the discussion</h3>
   <ul>
-    {# Mastodon link #}
-    <li>
-      <a href="{{ page.meta.mastodon_url | default(config.extra.mastodon_profile) }}" target="_blank">
-        Comment on Mastodon
-      </a>
-    </li>
-
-    {# Placeholder for Reddit in the future #}
-    {# 
-    <li>
-      <a href="{{ page.meta.reddit_url | default(config.extra.reddit_profile) }}" target="_blank">
-        Comment on Reddit
-      </a>
-    </li> 
-    #}
+    {% if page.meta.mastodon_url %}
+      <!-- Link to the specific Mastodon post -->
+      <li>
+        <a href="{{ page.meta.mastodon_url }}" target="_blank">Comment on Mastodon</a>
+      </li>
+    {% else %}
+      <!-- Default link to your Mastodon profile for older posts -->
+      <li>
+        <a href="https://fosstodon.org/@bmbufalo" target="_blank">Visit my Mastodon to comment</a>
+      </li>
+    {% endif %}
   </ul>
 </div>
 {% endif %}
