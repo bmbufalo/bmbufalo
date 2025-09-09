@@ -2,9 +2,21 @@
 <div class="blog-comments">
   <h3>Join the discussion</h3>
   <ul>
-    {% if page.meta.mastodon_url %}
-    <li><a href="{{ page.meta.mastodon_url }}" target="_blank">Comment on Mastodon</a></li>
-    {% endif %}
+    {# Mastodon link #}
+    <li>
+      <a href="{{ page.meta.mastodon_url | default(config.extra.mastodon_profile) }}" target="_blank">
+        Comment on Mastodon
+      </a>
+    </li>
+
+    {# Placeholder for Reddit in the future #}
+    {# 
+    <li>
+      <a href="{{ page.meta.reddit_url | default(config.extra.reddit_profile) }}" target="_blank">
+        Comment on Reddit
+      </a>
+    </li> 
+    #}
   </ul>
 </div>
 {% endif %}
