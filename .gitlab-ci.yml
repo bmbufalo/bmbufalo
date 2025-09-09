@@ -30,19 +30,27 @@ pages:
 
 announce:
   stage: announce
-  image: python:3.11
   before_script:
     - pip install mastodon.py python-frontmatter
   script:
-    - echo "Restoring cached state..."
+    # Restore cached state file
+    - mkdir -p cache
     - if [ -f cache/post_list.txt ]; then cp cache/post_list.txt post_list.txt; fi
 
+    # Get list of new posts (bootstrap-safe)
     - NEW_POSTS=$(python scripts/update_post_list.py)
 
-    - if [ -n "$NEW_POSTS" ]; then python scripts/post_to_mastodon.py $NEW_POSTS; fi
+    # Post to Mastodon only if there are new files
+    - |
+      for f in $NEW_POSTS; do
+        if [ -f "docs/posts/$f" ]; then
+          python scripts/post_to_mastodon.py "$f"
+        fi
+      done
 
-    - mkdir -p cache
+    # Save updated state to cache
     - cp post_list.txt cache/post_list.txt
+
   cache:
     key: mastodon-state
     paths:
