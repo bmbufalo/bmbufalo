@@ -32,6 +32,7 @@ announce:
   stage: announce
   before_script:
     - pip install mastodon.py python-frontmatter
+    - pip install --upgrade pip
   script:
     # Restore cached state file
     - mkdir -p cache
