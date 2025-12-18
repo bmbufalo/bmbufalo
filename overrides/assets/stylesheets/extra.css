@@ -1,5 +1,0 @@
-/* Make Cusdis comment box expand to full width of content area */
-#cusdis_thread {
-  width: 100% !important;
-  min-height: 500px;  /* give it some breathing room */
-}

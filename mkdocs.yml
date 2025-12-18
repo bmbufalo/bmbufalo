@@ -1,5 +1,5 @@
 site_name: Brian's Latest
-site_url: https://blog.bufalo.me
+site_url: https://brian.bufalo.me
 site_dir: public
 
 theme: 
@@ -46,12 +46,6 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-extra_javascript:
-  - javascripts/extra.js
-
-extra_css:
-  - stylesheets/extra.css
-
 plugins:
   - blog:
       blog_dir: .
@@ -78,7 +72,6 @@ plugins:
 markdown_extensions:
   - admonition
 
-
 extra:
   social:
     - icon: fontawesome/brands/mastodon
@@ -93,16 +86,3 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/bmbufalo/
       name: bmbufalo on Instagram
-  cusdis:
-    host: "https://cusdis.com"
-    app_id: "dda57283-f21e-4fd9-ac7b-9eb6a3400bbf"
-    lang: "en"
-
-# <div id="cusdis_thread"
-#   data-host="https://cusdis.com"
-#   data-app-id="dda57283-f21e-4fd9-ac7b-9eb6a3400bbf"
-#   data-page-id="{{ PAGE_ID }}"
-#   data-page-url="{{ PAGE_URL }}"
-#   data-page-title="{{ PAGE_TITLE }}"
-# ></div>
-# <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>

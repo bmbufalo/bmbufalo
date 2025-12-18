@@ -1,4 +1,9 @@
-image: python:3.8-buster
+image: python:3.11
+
+stages:
+  - test
+  - deploy
+  - announce
 
 before_script:
   - pip install -r requirements.txt
@@ -6,19 +11,50 @@ before_script:
 test:
   stage: test
   script:
-  - mkdocs build --strict --verbose --site-dir test
+    - mkdocs build --strict --verbose --site-dir test
   artifacts:
     paths:
-    - test
+      - test
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
 
 pages:
   stage: deploy
   script:
-  - mkdocs build --strict --verbose
+    - mkdocs build --strict --verbose
   artifacts:
     paths:
-    - public
+      - public
+  rules:
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
+
+announce:
+  stage: announce
+  before_script:
+    - pip install -r requirements.txt
+    - pip install --upgrade pip
+  script:
+    # Restore cached state file
+    - mkdir -p cache
+    - if [ -f cache/post_list.txt ]; then cp cache/post_list.txt post_list.txt; fi
+
+    # Get list of new posts (bootstrap-safe)
+    - NEW_POSTS=$(python scripts/update_post_list.py)
+
+    # Post to Mastodon only if there are new files
+    - |
+      for f in $NEW_POSTS; do
+        if [ -f "docs/posts/$f" ]; then
+          python scripts/post_to_mastodon.py "$f"
+        fi
+      done
+
+    # Save updated state to cache
+    - cp post_list.txt cache/post_list.txt
+
+  cache:
+    key: mastodon-state
+    paths:
+      - cache/post_list.txt
   rules:
     - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
