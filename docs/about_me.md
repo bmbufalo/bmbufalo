@@ -7,13 +7,13 @@ hide:
 
 # About Me
 
-- [Left handed][left-handed] 👈
-- [SpaceCamp][space-camp] graduate 🧑‍🚀
-- Educated at [Montevallo in History][montevallo-history] 🎓
-- [US Navy][us-navy] Vet ⚓️
-- Husband & dad of 3 🧑‍🧑‍🧒‍🧒
-- Personable nerd at [BCBSAL][bcbs-al] 🤓
-- Poor bio author 🖖
+- 🧑‍🚀 [SpaceCamp][space-camp] graduate.
+- 👈 [Left Handed][left-handed].
+- 🎓 Educated at [University of Montevallo in History][montevallo-history].
+- 🦑 Former [U.S. Navy][us-navy] sailor.
+- 🧑‍🧒‍🧒 Husband & dad of 3.
+- 🧑‍💻 Personable nerd at [BCBSAL][bcbs-al].
+- 🖖 Poor bio author.
 
 [space-camp]:https://www.rocketcenter.com/SpaceCamp
 [left-handed]: https://www.lefthandersclub.org
