@@ -1,3 +1,3 @@
 FROM nginxinc/nginx-unprivileged:stable
 
-COPY site/ /usr/share/nginx/html
+COPY public/ /usr/share/nginx/html
